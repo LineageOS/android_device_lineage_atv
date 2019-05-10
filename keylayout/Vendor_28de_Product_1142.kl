@@ -1,0 +1,61 @@
+# Copyright (C) 2017 The Android Open Source Project
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+# Steam Controller
+
+key 304   BUTTON_A
+key 305   BUTTON_B
+key 307   BUTTON_X
+key 308   BUTTON_Y
+key 310   BUTTON_L1
+key 311   BUTTON_R1
+key 312   BUTTON_L2
+key 313   BUTTON_R2
+key 315   BUTTON_START
+key 317   BUTTON_THUMBL
+key 318   BUTTON_THUMBR
+key 158   BACK
+key 172   HOME
+key 115   VOLUME_UP
+key 114   VOLUME_DOWN
+key 116   POWER
+
+key 103   DPAD_UP
+key 108   DPAD_DOWN
+key 105   DPAD_LEFT
+key 106   DPAD_RIGHT
+
+axis 0x00 X flat 4096
+axis 0x01 Y flat 4096
+axis 0x0a LTRIGGER flat 4096
+axis 0x02 Z flat 4096
+axis 0x05 RZ flat 4096
+axis 0x09 RTRIGGER flat 4096
+
+axis 0x10 HAT_X
+axis 0x11 HAT_Y
+
+axis 0x12 GENERIC_5
+axis 0x13 GENERIC_6
+axis 0x14 GENERIC_7
+
+axis 0x15 GENERIC_8
+axis 0x16 GENERIC_9
+axis 0x17 GENERIC_10
+
+axis 0x18 GENERIC_11
+axis 0x19 GENERIC_12
+axis 0x1a GENERIC_13
+axis 0x1b GENERIC_14
+

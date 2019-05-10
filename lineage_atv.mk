@@ -13,3 +13,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+
+# Key layouts for steam controller
+PRODUCT_PACKAGES += \
+    Vendor_28de_Product_1102.kl \
+    Vendor_28de_Product_1142.kl

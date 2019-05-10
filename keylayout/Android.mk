@@ -16,6 +16,42 @@
 LOCAL_PATH:= $(call my-dir)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_054c_Product_0268.kl
+LOCAL_SRC_FILES     := Vendor_054c_Product_0268.kl
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/keylayout
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_054c_Product_05c4.kl
+LOCAL_SRC_FILES     := Vendor_054c_Product_05c4.kl
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/keylayout
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_054c_Product_09cc.kl
+LOCAL_SRC_FILES     := Vendor_054c_Product_09cc.kl
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/keylayout
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_054c_Product_0ba0.kl
+LOCAL_SRC_FILES     := Vendor_054c_Product_0ba0.kl
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/keylayout
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
 LOCAL_MODULE        := Vendor_28de_Product_1102.kl
 LOCAL_SRC_FILES     := Vendor_28de_Product_1102.kl
 LOCAL_MODULE_TAGS   := optional

@@ -14,6 +14,13 @@
 # limitations under the License.
 #
 
+# Key layouts for ds3/ds4 controllers
+PRODUCT_PACKAGES += \
+    Vendor_054c_Product_0268.kl \
+    Vendor_054c_Product_05c4.kl \
+    Vendor_054c_Product_09cc.kl \
+    Vendor_054c_Product_0ba0.kl
+
 # Key layouts for steam controller
 PRODUCT_PACKAGES += \
     Vendor_28de_Product_1102.kl \

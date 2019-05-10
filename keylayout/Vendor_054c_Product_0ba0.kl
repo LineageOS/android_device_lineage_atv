@@ -1,0 +1,64 @@
+# Copyright (C) 2018 The Android Open Source Project
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+# Sony Interactive Entertainment DUALSHOCK®4 USB Wireless Adaptor
+# (This is the PS4 Wireless Dongle)
+
+# Action buttons, using the usual ABXY order
+# Button with cross image maps to BUTTON_A, due to placement analogy.
+key 305 BUTTON_A
+# Button with circle image maps to BUTTON_B, due to placement analogy.
+key 306 BUTTON_B
+# Button with square image maps to BUTTON_X, due to placement analogy.
+key 304 BUTTON_X
+# Button with triangle image maps to BUTTON_Y, due to placement analogy.
+key 307 BUTTON_Y
+
+# Shoulder buttons, starting with top row
+key 308 BUTTON_L1
+key 309 BUTTON_R1
+# NOTE: BUTTON_L2 is non-standard, on LT you get an axis and button
+axis 0x03 LTRIGGER
+key 310 BUTTON_L2
+# NOTE: BUTTON_R2 is non-standard, on RT you get an axis and button
+axis 0x04 RTRIGGER
+key 311 BUTTON_R2
+
+# Button "Share" maps to BACK
+key 312 BACK
+# Button "Options" maps to BUTTON_START
+key 313 BUTTON_START
+
+# These two keycodes are for click (press from above) on analog sticks.
+key 314 BUTTON_THUMBL
+key 315 BUTTON_THUMBR
+
+# Button with PlayStation(R) logo maps to HOME
+key 316 HOME
+
+# Pressing the Mouse Pad
+# NOTE: non-standard key, mapping to something meaningful
+key 317 BUTTON_SELECT
+
+# Left Analog Stick
+axis 0x00 X
+axis 0x01 Y
+
+# Right Analog Stick
+axis 0x02 Z
+axis 0x05 RZ
+
+# D-pad (hat) uses "analog" axes
+axis 0x10 HAT_X
+axis 0x11 HAT_Y

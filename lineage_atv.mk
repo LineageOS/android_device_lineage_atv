@@ -21,6 +21,19 @@ PRODUCT_PACKAGES += \
     Vendor_054c_Product_09cc.kl \
     Vendor_054c_Product_0ba0.kl
 
+# IDCs for shield controllers
+PRODUCT_PACKAGES += \
+    Vendor_0955_Product_7212.idc \
+    Vendor_0955_Product_7213.idc \
+    Vendor_0955_Product_7214.idc
+
+# Key layouts for shield controllers
+PRODUCT_PACKAGES += \
+    Vendor_0955_Product_7212.kl \
+    Vendor_0955_Product_7213.kl \
+    Vendor_0955_Product_7214.kl \
+    Vendor_0955_Product_7217.kl
+
 # Key layouts for steam controller
 PRODUCT_PACKAGES += \
     Vendor_28de_Product_1102.kl \

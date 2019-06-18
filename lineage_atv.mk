@@ -21,6 +21,12 @@ PRODUCT_PACKAGES += \
     Vendor_054c_Product_09cc.kl \
     Vendor_054c_Product_0ba0.kl
 
+# Key layouts for nintendo switch controllers
+PRODUCT_PACKAGES += \
+    Vendor_057e_Product_2006.kl \
+    Vendor_057e_Product_2007.kl \
+    Vendor_057e_Product_2009.kl
+
 # IDCs for shield controllers
 PRODUCT_PACKAGES += \
     Vendor_0955_Product_7212.idc \

@@ -1,0 +1,24 @@
+# Nintendo Switch Pro Controller
+
+key 305 BUTTON_A
+key 304 BUTTON_B
+key 306 BUTTON_Y
+key 307 BUTTON_X
+key 313 BUTTON_START
+key 312 BUTTON_SELECT
+key 308 BUTTON_L1
+key 309 BUTTON_R1
+key 310 BUTTON_L2
+key 311 BUTTON_R2
+key 314 BUTTON_THUMBL
+key 315 BUTTON_THUMBR
+key 316 HOME
+key 317 BACK
+
+axis 0x00 X flat 1024
+axis 0x01 Y flat 1024
+axis 0x03 Z flat 1024
+axis 0x04 RZ flat 1024
+
+axis 0x10 HAT_X
+axis 0x11 HAT_Y

@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "32455b5b_b3319202",
+        "filename": "lineage_atv.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2019-08-24T22:16:14Z",
+      "side": 1,
+      "message": "This doesn\u0027t work. Should be TARGET_COPY_OUT_SYSTEM.\nAnd you forgot $ at beginning.\nAnd the folder in the atv repo should be named \"permissions\", not \"privapp-permissions\".",
+      "range": {
+        "startLine": 37,
+        "startChar": 80,
+        "endLine": 37,
+        "endChar": 97
+      },
+      "revId": "c4163d5cedb36e58737a35ea2ff6a1e369132b64",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}

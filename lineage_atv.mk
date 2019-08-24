@@ -31,3 +31,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Vendor_28de_Product_1102.kl \
     Vendor_28de_Product_1142.kl
+
+# TVSettings privapp permissions
+PRODUCT_COPY_FILES +=\
+    device/lineage/atv/privapp-permissions/privapp-permissions-lineage-atv.xml:(TARGET_OUT_SYSTEM)/etc/permissions/privapp-permissions-lineage-atv.xml

@@ -34,4 +34,4 @@ PRODUCT_PACKAGES += \
 
 # TVSettings privapp permissions
 PRODUCT_COPY_FILES +=\
-    device/lineage/atv/privapp-permissions/privapp-permissions-lineage-atv.xml:(TARGET_OUT_SYSTEM)/etc/permissions/privapp-permissions-lineage-atv.xml
+    device/lineage/atv/privapp-permissions/privapp-permissions-lineage-atv.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-lineage-atv.xml

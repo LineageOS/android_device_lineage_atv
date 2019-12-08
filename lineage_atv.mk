@@ -14,6 +14,10 @@
 # limitations under the License.
 #
 
+# Init files
+PRODUCT_PACKAGES += \
+    init.lineage.atv.rc
+
 # IDCs for shield controllers
 PRODUCT_PACKAGES += \
     Vendor_0955_Product_7212.idc \

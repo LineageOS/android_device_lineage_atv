@@ -26,6 +26,7 @@
         <permission name="android.permission.DUMP"/>
         <permission name="android.permission.FORCE_STOP_PACKAGES"/>
         <permission name="android.permission.GET_ACCOUNTS_PRIVILEGED"/>
+        <permission name="android.permission.MANAGE_DEBUGGING"/>
         <permission name="android.permission.MANAGE_USERS"/>
         <permission name="android.permission.OVERRIDE_WIFI_CONFIG"/>
         <permission name="android.permission.REBOOT"/>

@@ -14,15 +14,15 @@
 # limitations under the License.
 #
 
-# Init files
-PRODUCT_PACKAGES += \
-    init.lineage.atv.rc
-
 # IDCs for shield controllers
 PRODUCT_PACKAGES += \
     Vendor_0955_Product_7212.idc \
     Vendor_0955_Product_7213.idc \
     Vendor_0955_Product_7214.idc
+
+# Init scripts
+PRODUCT_PACKAGES += \
+    init.lineage.atv.rc
 
 # Key layouts for shield controllers
 PRODUCT_PACKAGES += \
@@ -36,6 +36,11 @@ PRODUCT_PACKAGES += \
     Vendor_28de_Product_1102.kl \
     Vendor_28de_Product_1142.kl
 
-# TVSettings privapp permissions
+# TVLauncher
+PRODUCT_PACKAGES += \
+    TVLauncherNoGMS \
+    TVRecommendationsNoGMS
+
+# priv-app permissions
 PRODUCT_COPY_FILES +=\
     device/lineage/atv/permissions/privapp-permissions-lineage-atv.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-lineage-atv.xml

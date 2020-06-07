@@ -32,6 +32,11 @@ PRODUCT_PACKAGES += \
     Vendor_28de_Product_1102.kl \
     Vendor_28de_Product_1142.kl
 
-# TVSettings privapp permissions
+# LeanbackLauncher
+PRODUCT_PACKAGES += \
+    TVLauncherNoGMS \
+    TVRecommendationsNoGMS
+
+# priv-app permissions
 PRODUCT_COPY_FILES +=\
     device/lineage/atv/permissions/privapp-permissions-lineage-atv.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-lineage-atv.xml

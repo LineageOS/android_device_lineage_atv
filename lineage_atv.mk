@@ -38,6 +38,7 @@ PRODUCT_PACKAGES += \
 
 # TVLauncher
 PRODUCT_PACKAGES += \
+    LeanbackImeNoGMS \
     TVLauncherNoGMS \
     TVRecommendationsNoGMS
 

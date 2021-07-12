@@ -39,6 +39,10 @@ PRODUCT_PACKAGES += \
     Vendor_28de_Product_1102.kl \
     Vendor_28de_Product_1142.kl
 
+# Settings
+PRODUCT_PACKAGES += \
+    TwoPanelSettingsOverlay
+
 # TVLauncher
 PRODUCT_PACKAGES += \
     TVLauncherNoGMS \

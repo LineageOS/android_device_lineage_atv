@@ -43,6 +43,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     device/google/atv/overlay
 
+# Settings
+PRODUCT_PACKAGES += \
+    TwoPanelSettingsOverlay
+
 # TVLauncher
 PRODUCT_PACKAGES += \
     TVLauncherNoGMS \

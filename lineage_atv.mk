@@ -39,6 +39,10 @@ PRODUCT_PACKAGES += \
     Vendor_28de_Product_1102.kl \
     Vendor_28de_Product_1142.kl
 
+# Overlays
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
+    device/google/atv/overlay
+
 # TVLauncher
 PRODUCT_PACKAGES += \
     TVLauncherNoGMS \

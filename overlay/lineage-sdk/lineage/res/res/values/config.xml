@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2021 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <!-- Paths to the libraries that contain device specific key handlers -->
+    <string-array name="config_deviceKeyHandlerLibs" translatable="false">
+        <item>/system/priv-app/LineageParts/LineageParts.apk</item>
+        <item>/system/priv-app/LineageParts/LineageParts.apk</item>
+    </string-array>
+    <!-- Names of the key handler classes -->
+    <string-array name="config_deviceKeyHandlerClasses" translatable="false">
+        <item>org.lineageos.lineageparts.gestures.KeyHandler</item>
+        <item>org.lineageos.lineageparts.atv.KeyHandler</item>
+    </string-array>
+
+    <!-- Array of keycodes for special keys on device.
+         Order & size must match with keyhandler_packages -->
+    <integer-array name="keyhandler_keycodes">
+        <item>176</item> <!-- KEYCODE_SETTINGS -->
+        <item>190</item> <!-- KEYCODE_BUTTON_3 -->
+        <item>191</item> <!-- KEYCODE_BUTTON_4 -->
+        <item>193</item> <!-- KEYCODE_BUTTON_6 -->
+        <item>194</item> <!-- KEYCODE_BUTTON_7 -->
+        <item>195</item> <!-- KEYCODE_BUTTON_8 -->
+    </integer-array>
+
+    <!-- Array of packages for special keys on device.
+         Order & size must match with keyhandler_keycodes -->
+    <string-array name="keyhandler_packages">
+        <item>com.android.tv.settings</item>
+        <item>com.google.android.youtube.tv</item>
+        <item>com.netflix.ninja</item>
+        <item>com.disney.disneyplus</item>
+        <item>com.hbo.hbonow</item>
+        <item>com.android.vending</item>
+    </string-array>
+</resources>

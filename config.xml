@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2021 The LineageOS Project
+
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Paths to the libraries that contain device specific key handlers -->
+    <string-array name="config_deviceKeyHandlerLibs" translatable="false">
+        <item>/system/priv-app/LineageParts/LineageParts.apk</item>
+        <item>/system/priv-app/KeyHandler/KeyHandler.apk</item>
+    </string-array>
+
+    <!-- Names of the key handler classes -->
+    <string-array name="config_deviceKeyHandlerClasses" translatable="false">
+        <item>org.lineageos.lineageparts.gestures.KeyHandler</item>
+        <item>org.lineageos.settings.device.KeyHandler</item>
+    </string-array>
+
+    <!-- Array of keycodes for special keys on device.
+         Order & size must match with keyhandler_packages -->
+    <integer-array name="keyhandler_keycodes">
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+    </integer-array>
+
+    <!-- Array of packages for special keys on device.
+         Order & size must match with keyhandler_keycodes -->
+    <string-array name="keyhandler_packages">
+        <item>com.android.vending</item>
+        <item>com.netflix.mediaclient</item>
+        <item>com.google.android.youtube.tv</item>
+    </string-array>
+</resources>

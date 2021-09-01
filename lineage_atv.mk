@@ -17,6 +17,10 @@
 # System properties
 include $(LOCAL_PATH)/system_prop.mk
 
+# Overlays
+PRODUCT_PACKAGE_OVERLAYS += \
+    device/lineage/atv/overlay
+
 # Init files
 PRODUCT_PACKAGES += \
     init.lineage.atv.rc

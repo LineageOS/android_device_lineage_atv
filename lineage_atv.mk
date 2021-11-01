@@ -14,8 +14,8 @@
 # limitations under the License.
 #
 
-# Product properties
-include $(LOCAL_PATH)/product_prop.mk
+# System properties
+include $(LOCAL_PATH)/system_prop.mk
 
 # Init files
 PRODUCT_PACKAGES += \

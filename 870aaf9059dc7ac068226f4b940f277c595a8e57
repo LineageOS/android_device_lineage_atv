@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f6bc2ddd_eda90ee7",
+        "filename": "apps/NetflixConfig/src/org/lineage/netflixconfig/NetflixBroadcastReceiver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2021-11-01T21:23:07Z",
+      "side": 1,
+      "message": "Ah yes, the typo.",
+      "range": {
+        "startLine": 29,
+        "startChar": 21,
+        "endLine": 29,
+        "endChar": 29
+      },
+      "revId": "870aaf9059dc7ac068226f4b940f277c595a8e57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}

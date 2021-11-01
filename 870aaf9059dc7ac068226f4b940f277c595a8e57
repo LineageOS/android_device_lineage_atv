@@ -22,6 +22,30 @@
       "revId": "870aaf9059dc7ac068226f4b940f277c595a8e57",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b30c4ee7_89376b0b",
+        "filename": "apps/NetflixConfig/src/org/lineage/netflixconfig/NetflixBroadcastReceiver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2021-11-01T21:25:47Z",
+      "side": 1,
+      "message": "lol - this might need touchups for 18.1 anyway, it should be a follow up commit as it\u0027s merged on 17.1 already.",
+      "parentUuid": "f6bc2ddd_eda90ee7",
+      "range": {
+        "startLine": 29,
+        "startChar": 21,
+        "endLine": 29,
+        "endChar": 29
+      },
+      "revId": "870aaf9059dc7ac068226f4b940f277c595a8e57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }

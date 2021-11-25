@@ -56,10 +56,10 @@ key usage 0x000c00B4 MEDIA_SKIP_BACKWARD
 key usage 0x000c00B3 MEDIA_SKIP_FORWARD
 key usage 0x000c0226 MEDIA_STOP
 
-key usage 0x000c0077 F10  #YouTube
-key usage 0x000c0078 F11  #Netflix
-key usage 0x000c0079 F7  #Disney+
-key usage 0x000c007A F8  #HBOmax
+key usage 0x000c0077 BUTTON_11  #YouTube
+key usage 0x000c0078 BUTTON_12  #Netflix
+key usage 0x000c0079 BUTTON_9  #Disney+
+key usage 0x000c007A BUTTON_10  #HBOmax
 
 key usage 0x000c01BD INFO
 key usage 0x000c0061 CAPTIONS
@@ -69,7 +69,7 @@ key usage 0x000c006A PROG_GREEN
 key usage 0x000c006B PROG_BLUE
 key usage 0x000c006C PROG_YELLOW
 
-key usage 0x0c0008 F11  #NETFLIX
-key usage 0x0c0007 F10  #YOUTUBE
-key usage 0x0c0009 F12  #GOOGLE PLAY
+key usage 0x0c0008 BUTTON_12  #NETFLIX
+key usage 0x0c0007 BUTTON_11  #YOUTUBE
+key usage 0x0c0009 BUTTON_8  #GOOGLE PLAY
 key usage 0x0c01A2 F9  #ALL APPS

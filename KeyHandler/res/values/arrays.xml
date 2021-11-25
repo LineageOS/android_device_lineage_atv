@@ -6,9 +6,23 @@
 <resources>
     <!-- Array of keycodes for special keys on device.
          Order & size must match with keyhandler_packages -->
-    <integer-array name="keyhandler_keycodes"></integer-array>
+    <integer-array name="keyhandler_keycodes">
+        <item>176</item> <!-- KEYCODE_SETTINGS  -->
+	<item>195</item> <!-- KEYCODE_BUTTON_8  -->
+	<item>196</item> <!-- KEYCODE_BUTTON_9  -->
+	<item>197</item> <!-- KEYCODE_BUTTON_10 -->
+	<item>198</item> <!-- KEYCODE_BUTTON_11 -->
+	<item>199</item> <!-- KEYCODE_BUTTON_12 -->
+    </integer-array>
 
     <!-- Array of packages for special keys on device.
          Order & size must match with keyhandler_keycodes -->
-    <string-array name="keyhandler_packages"></string-array>
+    <string-array name="keyhandler_packages">
+        <item>com.android.tv.settings</item>
+        <item>com.android.vending</item>
+        <item>com.disney.disneyplus</item>
+        <item>com.hbo.hbonow</item>
+        <item>com.google.android.youtube.tv</item>
+        <item>com.netflix.ninja</item>
+    </string-array>
 </resources>

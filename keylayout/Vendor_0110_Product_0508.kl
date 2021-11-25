@@ -30,17 +30,17 @@ key 113   VOLUME_MUTE
 
 #Askey BT +
 #NETFLIX
-key usage 0x0c0008 F11
+key usage 0x0c0008 BUTTON_4
 #YOUTUBE
-key usage 0x0c0007 F10
+key usage 0x0c0007 BUTTON_3
 #GOOGLE PLAY
-key usage 0x0c0009 F12
+key usage 0x0c0009 BUTTON_8
 
 #ALL APPS
 key usage 0x0c01A2 F9
 #NETFLIX
-key usage 0x0c0077 F11
+key usage 0x0c0077 BUTTON_4
 #YOUTUBE
-key usage 0x0c0078 F10
+key usage 0x0c0078 BUTTON_3
 #GOOGLE PLAY
-key usage 0x0c0079 F12
+key usage 0x0c0079 BUTTON_8

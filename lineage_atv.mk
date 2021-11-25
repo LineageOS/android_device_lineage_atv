@@ -21,6 +21,10 @@ include $(LOCAL_PATH)/system_prop.mk
 PRODUCT_PACKAGES += \
     init.lineage.atv.rc
 
+# KeyHandler
+PRODUCT_PACKAGES += \
+    KeyHandler
+
 # IDCs for shield controllers
 PRODUCT_PACKAGES += \
     Vendor_0955_Product_7212.idc \

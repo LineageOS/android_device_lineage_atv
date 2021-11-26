@@ -26,4 +26,4 @@ key 164   MEDIA_PLAY_PAUSE
 key 168   MEDIA_REWIND
 
 # The netflix button is mapped to button_12
-key 393   BUTTON_12
+key 393   BUTTON_4

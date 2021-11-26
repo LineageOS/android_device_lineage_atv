@@ -34,7 +34,7 @@ key 114   VOLUME_DOWN
 key 115   VOLUME_UP
 
 # custom buttons
-key usage 0x000c0077    BUTTON_2  WAKE # Youtube
-key usage 0x000c0078    BUTTON_3  WAKE # Netflix
+key usage 0x000c0077    BUTTON_11 WAKE # Youtube
+key usage 0x000c0078    BUTTON_12 WAKE # Netflix
 key usage 0x000c0079    BUTTON_4  WAKE # Magic button
 key usage 0x000c0089    TV_INPUT  WAKE

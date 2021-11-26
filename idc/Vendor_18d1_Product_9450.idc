@@ -16,6 +16,5 @@
 # Input Device Configuration for Abbey Remote
 #
 
-keyboard.doNotWakeByDefault = 1
 audio.mic = 1
 

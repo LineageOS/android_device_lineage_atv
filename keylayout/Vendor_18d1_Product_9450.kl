@@ -20,10 +20,10 @@ key 103   DPAD_UP
 key 108   DPAD_DOWN
 key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
-key 353   DPAD_CENTER             WAKE
+key 353   DPAD_CENTER
 
-key 158   BACK                    WAKE
-key 172   HOME                    WAKE
+key 158   BACK
+key 172   HOME
 
 key 152   POWER
 key 164   MEDIA_PLAY_PAUSE
@@ -34,7 +34,7 @@ key 114   VOLUME_DOWN
 key 115   VOLUME_UP
 
 # custom buttons
-key usage 0x000c0077    BUTTON_3  WAKE # Youtube
-key usage 0x000c0078    BUTTON_4  WAKE # Netflix
-key usage 0x000c0079    BUTTON_2  WAKE # Magic button
-key usage 0x000c0089    TV_INPUT  WAKE
+key usage 0x000c0077    BUTTON_3  # Youtube
+key usage 0x000c0078    BUTTON_4  # Netflix
+key usage 0x000c0079    BUTTON_2  # Magic button
+key usage 0x000c0089    TV_INPUT

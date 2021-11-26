@@ -30,6 +30,11 @@ PRODUCT_PACKAGES += \
     Vendor_0957_Product_0005.idc \
     Vendor_0957_Product_0005.kl
 
+# Sabrina remote
+PRODUCT_PACKAGES += \
+    Vendor_18d1_Product_9450.idc \
+    Vendor_18d1_Product_9450.kl
+
 # IDCs for shield controllers
 PRODUCT_PACKAGES += \
     Vendor_0955_Product_7212.idc \

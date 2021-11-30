@@ -21,5 +21,4 @@ key 106   DPAD_RIGHT
 key 108   DPAD_DOWN
 key 353   DPAD_CENTER
 
-# The search button is intentionally interpreted as a custom button 16.
-key 217   BUTTON_16
+key 217   VOICE_ASSIST

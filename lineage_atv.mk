@@ -45,7 +45,7 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
 
 # Settings
 PRODUCT_PACKAGES += \
-    TwoPanelSettingsOverlay
+    TvSettingsTwoPanel
 
 # TVLauncher
 PRODUCT_PACKAGES += \

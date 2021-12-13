@@ -10,12 +10,12 @@ key 8     7
 key 9     8
 key 10    9
 key 11    0
-key 217   ASSIST
-key 158   BACK
-key 353   DPAD_CENTER
+key 217   ASSIST      WAKE
+key 158   BACK        
+key 353   DPAD_CENTER WAKE
 key 108   DPAD_DOWN
 key 103   DPAD_UP
-key 172   HOME
+key 172   HOME        WAKE
 key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
 key 115   VOLUME_UP
@@ -30,17 +30,17 @@ key 113   VOLUME_MUTE
 
 #Askey BT +
 #NETFLIX
-key usage 0x0c0008 BUTTON_4
+key usage 0x0c0008 BUTTON_4 WAKE
 #YOUTUBE
-key usage 0x0c0007 BUTTON_3
+key usage 0x0c0007 BUTTON_3 WAKE
 #GOOGLE PLAY
-key usage 0x0c0009 BUTTON_8
+key usage 0x0c0009 BUTTON_8 WAKE
 
 #ALL APPS
 key usage 0x0c01A2 F9
 #NETFLIX
-key usage 0x0c0077 BUTTON_4
+key usage 0x0c0077 BUTTON_4 WAKE
 #YOUTUBE
-key usage 0x0c0078 BUTTON_3
+key usage 0x0c0078 BUTTON_3 WAKE
 #GOOGLE PLAY
-key usage 0x0c0079 BUTTON_8
+key usage 0x0c0079 BUTTON_8 WAKE

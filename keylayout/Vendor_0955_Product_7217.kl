@@ -11,12 +11,12 @@ key 103   DPAD_UP
 key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
 key 108   DPAD_DOWN
-key 353   DPAD_CENTER
+key 353   DPAD_CENTER         WAKE
 
 key 158   BACK
 key 172   HOME
 
-key 217   VOICE_ASSIST
+key 217   VOICE_ASSIST        WAKE
 
 key 114   VOLUME_DOWN
 key 115   VOLUME_UP
@@ -26,4 +26,4 @@ key 164   MEDIA_PLAY_PAUSE
 key 168   MEDIA_REWIND
 
 # The netflix button is mapped to button_12
-key 393   BUTTON_4
+key 393   BUTTON_4            WAKE

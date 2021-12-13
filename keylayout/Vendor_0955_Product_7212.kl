@@ -2,8 +2,8 @@
 
 # NVIDIA Shield Remote (2015 edition)
 
-key 158   BACK
-key 172   HOME
+key 158   BACK              WAKE
+key 172   HOME              WAKE
 
 key 114   VOLUME_DOWN
 key 115   VOLUME_UP
@@ -16,6 +16,6 @@ key 103   DPAD_UP
 key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
 key 108   DPAD_DOWN
-key 353   DPAD_CENTER
+key 353   DPAD_CENTER       WAKE
 
-key 217   VOICE_ASSIST
+key 217   VOICE_ASSIST      WAKE

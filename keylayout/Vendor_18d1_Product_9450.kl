@@ -27,7 +27,7 @@ key 172   HOME                    WAKE
 
 key 152   POWER
 key 164   MEDIA_PLAY_PAUSE
-key 217   ASSIST
+key 217   ASSIST                  WAKE
 
 key 113   VOLUME_MUTE
 key 114   VOLUME_DOWN

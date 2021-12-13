@@ -49,7 +49,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Vendor_0955_Product_7212.idc \
     Vendor_0955_Product_7213.idc \
-    Vendor_0955_Product_7214.idc
+    Vendor_0955_Product_7214.idc \
+    Vendor_0955_Product_7217.idc
 
 # Key layouts for shield controllers
 PRODUCT_PACKAGES += \

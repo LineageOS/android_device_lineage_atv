@@ -25,11 +25,6 @@ PRODUCT_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     init.lineage.atv.rc
 
-# ADT-3 remote
-PRODUCT_PACKAGES += \
-    Vendor_0957_Product_0001.idc \
-    Vendor_0957_Product_0001.kl
-
 # Sabrina remote
 PRODUCT_PACKAGES += \
     Vendor_18d1_Product_9450.idc \

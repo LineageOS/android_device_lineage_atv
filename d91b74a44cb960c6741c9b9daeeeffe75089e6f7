@@ -51,6 +51,24 @@
       "parentUuid": "cb30d1db_1c322ff0",
       "revId": "d91b74a44cb960c6741c9b9daeeeffe75089e6f7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "22246d95_4a42b854",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2022-02-12T15:40:43Z",
+      "side": 1,
+      "message": "We used a hack patch identical to this before (not building in that .rc file) so this is verified to be work, yes.",
+      "parentUuid": "a170da0a_f3599556",
+      "revId": "d91b74a44cb960c6741c9b9daeeeffe75089e6f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

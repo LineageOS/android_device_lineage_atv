@@ -21,9 +21,11 @@ include $(LOCAL_PATH)/system_prop.mk
 PRODUCT_PACKAGE_OVERLAYS += \
     device/lineage/atv/overlay
 
-# Init files
+# Force 1080p on ATV interface (opt-out)
+ifneq ($(TARGET_ATV_RES_FORCE),false)
 PRODUCT_PACKAGES += \
-    init.lineage.atv.rc
+    init.lineage.atv.resolution.rc
+endif
 
 # Sabrina remote
 PRODUCT_PACKAGES += \

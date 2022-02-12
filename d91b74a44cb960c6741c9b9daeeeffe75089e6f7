@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6a1b5d2c_76e6bda7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2022-02-12T01:42:05Z",
+      "side": 1,
+      "message": "Still don\u0027t like this at a conceptual level and it should *never* be set in an official tree, but this is consistent now.",
+      "revId": "d91b74a44cb960c6741c9b9daeeeffe75089e6f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

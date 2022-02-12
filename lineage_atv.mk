@@ -21,9 +21,11 @@ include $(LOCAL_PATH)/system_prop.mk
 PRODUCT_PACKAGE_OVERLAYS += \
     device/lineage/atv/overlay
 
-# Init files
+# ATV common init--force 1080p
+ifneq ($(TARGET_ATV_RES_FORCE),false)
 PRODUCT_PACKAGES += \
     init.lineage.atv.rc
+endif
 
 # ADT-3 remote
 PRODUCT_PACKAGES += \

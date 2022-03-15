@@ -14,6 +14,7 @@
 
 on fs
     setprop ro.config.size_override 1920,1080
+    setprop ro.config.density_override 320
 
 on post-fs-data
     setprop persist.sys.display.resolution 1920x1080

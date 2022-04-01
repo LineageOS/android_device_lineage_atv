@@ -64,6 +64,10 @@ PRODUCT_PACKAGES += \
     Vendor_28de_Product_1102.kl \
     Vendor_28de_Product_1142.kl
 
+# Launcher
+PRODUCT_PACKAGES += \
+    FLauncher
+
 # Overlays
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     device/google/atv/overlay

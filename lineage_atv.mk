@@ -72,11 +72,6 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
 PRODUCT_PACKAGES += \
     TwoPanelSettingsOverlay
 
-# TVLauncher
-PRODUCT_PACKAGES += \
-    TVLauncherNoGMS \
-    TVRecommendationsNoGMS
-
 # priv-app permissions
 PRODUCT_COPY_FILES +=\
     device/lineage/atv/permissions/privapp-permissions-lineage-atv.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-lineage-atv.xml

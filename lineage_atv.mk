@@ -64,6 +64,10 @@ PRODUCT_PACKAGES += \
     Vendor_28de_Product_1102.kl \
     Vendor_28de_Product_1142.kl
 
+# Launcher
+PRODUCT_PACKAGES += \
+    FLauncher
+
 # Overlays
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     device/google/atv/overlay
@@ -71,11 +75,6 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
 # Settings
 PRODUCT_PACKAGES += \
     TwoPanelSettingsOverlay
-
-# TVLauncher
-PRODUCT_PACKAGES += \
-    TVLauncherNoGMS \
-    TVRecommendationsNoGMS
 
 # priv-app permissions
 PRODUCT_COPY_FILES +=\

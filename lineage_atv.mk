@@ -21,7 +21,15 @@ include $(LOCAL_PATH)/system_prop.mk
 PRODUCT_PACKAGE_OVERLAYS += \
     device/lineage/atv/overlay
 
+<<<<<<< HEAD   (c9eca8 TVLauncherNoGMS: Allow launcher to run with gms installed)
 # Init files
+=======
+PRODUCT_PACKAGES += \
+    init.lineage.atv.adb.rc
+
+# Force 1080p on ATV interface (opt-out)
+ifneq ($(TARGET_ATV_RES_FORCE),false)
+>>>>>>> CHANGE (a0b130 Support restarting adb when adb port prop is set)
 PRODUCT_PACKAGES += \
     init.lineage.atv.rc
 

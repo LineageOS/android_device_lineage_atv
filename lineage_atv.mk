@@ -21,6 +21,10 @@ include $(LOCAL_PATH)/system_prop.mk
 PRODUCT_PACKAGE_OVERLAYS += \
     device/lineage/atv/overlay
 
+# Init files
+PRODUCT_PACKAGES += \
+    init.lineage.atv.rc
+
 # Sabrina remote
 PRODUCT_PACKAGES += \
     Vendor_18d1_Product_9450.idc \

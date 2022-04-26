@@ -21,6 +21,9 @@ include $(LOCAL_PATH)/system_prop.mk
 PRODUCT_PACKAGE_OVERLAYS += \
     device/lineage/atv/overlay
 
+PRODUCT_PACKAGES += \
+    init.lineage.atv.adb.rc
+
 # Force 1080p on ATV interface (opt-out)
 ifneq ($(TARGET_ATV_RES_FORCE),false)
 PRODUCT_PACKAGES += \

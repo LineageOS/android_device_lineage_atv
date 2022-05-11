@@ -18,3 +18,9 @@ on fs
 on post-fs-data
     setprop persist.sys.display.resolution 1920x1080
     setprop persist.vendor.sys.display.resolution 1920x1080
+
+on property:ubootenv.var.colorattribute=rgb
+    write /sys/devices/virtual/amhdmitx/amhdmitx0/attr rgb
+
+on property:ubootenv.var.colorattribute=444
+    write /sys/devices/virtual/amhdmitx/amhdmitx0/attr 444

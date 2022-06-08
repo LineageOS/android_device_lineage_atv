@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019 The LineageOS Project
+# Copyright (C) 2019-2022 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -34,6 +34,11 @@ endif
 PRODUCT_PACKAGES += \
     Vendor_0957_Product_0001.idc \
     Vendor_0957_Product_0001.kl
+
+# Dynalink 4k
+PRODUCT_PACKAGES += \
+    Vendor_0110_Product_0508.idc \
+    Vendor_0110_Product_0508.kl
 
 # Sabrina remote
 PRODUCT_PACKAGES += \

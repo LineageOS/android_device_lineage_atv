@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018 The LineageOS Project
+# Copyright (C) 2019,2021-2022 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,6 +14,15 @@
 # limitations under the License.
 #
 LOCAL_PATH:= $(call my-dir)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_0110_Product_0508.kl
+LOCAL_SRC_FILES     := Vendor_0110_Product_0508.kl
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/keylayout
+include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := Vendor_0955_Product_7212.kl

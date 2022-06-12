@@ -16,6 +16,23 @@
       "message": "\u003e Patch Set 1: Code-Review-1\n\u003e \n\u003e dopinder is different remote\n\nRemoved mention of dopinder in commit message",
       "revId": "a6b3dcd3ffb97e1ed4bb132b298d802a4cb2f481",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3980d774_0e9c9535",
+        "filename": "lineage_atv.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2022-06-12T21:09:40Z",
+      "side": 1,
+      "message": "Not dopinder",
+      "revId": "a6b3dcd3ffb97e1ed4bb132b298d802a4cb2f481",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

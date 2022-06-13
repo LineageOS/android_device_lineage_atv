@@ -40,11 +40,6 @@ PRODUCT_PACKAGES += \
     Vendor_0110_Product_0508.idc \
     Vendor_0110_Product_0508.kl
 
-# Sabrina remote
-PRODUCT_PACKAGES += \
-    Vendor_18d1_Product_9450.idc \
-    Vendor_18d1_Product_9450.kl
-
 # Onn remote
 PRODUCT_PACKAGES += \
     Vendor_0957_Product_0005.idc \

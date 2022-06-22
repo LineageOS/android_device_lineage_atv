@@ -16,6 +16,23 @@
       "message": "chain works",
       "revId": "376ec7d738321e5d90e473c482f79d7f23d2aff3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "df51936a_28c09645",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-06-22T20:57:35Z",
+      "side": 1,
+      "message": "Virtual +1 from 19.1 branch",
+      "revId": "376ec7d738321e5d90e473c482f79d7f23d2aff3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

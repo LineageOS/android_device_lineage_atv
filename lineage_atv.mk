@@ -14,6 +14,13 @@
 # limitations under the License.
 #
 
+# Artifact Path Exclusions
+PRODUCT_ARTIFACT_PATH_REQUIREMENT_ALLOWED_LIST += \
+    system/etc/init/init.lineage.atv.rc \
+    system/etc/permissions/privapp-permissions-lineage-atv.xml \
+    system/priv-app/TVLauncherNoGMS/TVLauncherNoGMS.apk \
+    system/priv-app/TVRecommendationsNoGMS/TVRecommendationsNoGMS.apk
+
 # System properties
 include $(LOCAL_PATH)/system_prop.mk
 

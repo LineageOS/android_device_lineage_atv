@@ -14,7 +14,8 @@
 
 android_app {
     name: "NetflixConfig",
-    platform_apis: true,
+    product_specific: true,
+    sdk_version: "current",
     srcs: ["src/**/*.java"],
     certificate: "platform",
 }

@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.BroadcastReceiver;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.os.SystemProperties;
+import android.os.Build;
 import android.preference.PreferenceManager;
 import android.provider.Settings;
 import android.text.TextUtils;
@@ -23,10 +23,10 @@ public class NetflixBroadcastReceiver extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        String buildDate = SystemProperties.get("ro.build.version.incremental", "");
+        String buildDate = Build.VERSION.INCREMENTAL;
         boolean needUpdate = !buildDate.equals(getSavedBuildDate(context));
 
-        // This also inclused first boot
+        // This also includes first boot
         if (needUpdate) {
             setNrdpCapabilites(context, NRDP_PLATFORM_CAP,
                 context.getString(R.string.nrdp_platform_capabilities));

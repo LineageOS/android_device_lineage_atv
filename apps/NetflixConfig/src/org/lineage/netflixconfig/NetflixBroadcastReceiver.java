@@ -1,4 +1,4 @@
-package org.lineage.netflixconfig;
+package org.lineageos.netflixconfig;
 
 import android.content.Context;
 import android.content.BroadcastReceiver;

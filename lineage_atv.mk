@@ -69,8 +69,12 @@ PRODUCT_PACKAGES += \
 
 # TVLauncher
 PRODUCT_PACKAGES += \
-    TVLauncherNoGMS \
+    TVLauncherNoGMS
+
+ifeq ($(filter %beast,$(TARGET_PRODUCT)),)
+PRODUCT_PACKAGES += \
     TVRecommendationsNoGMS
+endif
 
 # priv-app permissions
 PRODUCT_COPY_FILES +=\

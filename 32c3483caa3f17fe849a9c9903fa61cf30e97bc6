@@ -102,6 +102,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "e4438391_94e4eb89",
+        "filename": "apps/LineageAtvSUW/Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-01-15T17:00:40Z",
+      "side": 1,
+      "message": "I just picked a name kinda at random, if someone has a better one, go for it. It\u0027s overlay SetupWraith in gms, applying what will be lineage specific options.",
+      "parentUuid": "3ba615dd_46e7d765",
+      "range": {
+        "startLine": 2,
+        "startChar": 11,
+        "endLine": 2,
+        "endChar": 24
+      },
+      "revId": "32c3483caa3f17fe849a9c9903fa61cf30e97bc6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "152ee34c_4a208929",
         "filename": "apps/LineageAtvSUW/Android.bp",
         "patchSetId": 1
@@ -137,6 +161,30 @@
       "side": 1,
       "message": "probably not.",
       "parentUuid": "152ee34c_4a208929",
+      "range": {
+        "startLine": 3,
+        "startChar": 4,
+        "endLine": 3,
+        "endChar": 27
+      },
+      "revId": "32c3483caa3f17fe849a9c9903fa61cf30e97bc6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "af3e4625_80a19904",
+        "filename": "apps/LineageAtvSUW/Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-01-15T17:00:40Z",
+      "side": 1,
+      "message": "I\u0027m not all that familiar with rro\u0027s, I just copy-pasta\u0027d the wifi overlay and tweaked for this. Again, if someone that knows stuff better wants to clean it up, please do.",
+      "parentUuid": "7ceed0a4_2d76cd84",
       "range": {
         "startLine": 3,
         "startChar": 4,

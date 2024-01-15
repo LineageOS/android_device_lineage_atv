@@ -35,6 +35,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f7d9e0fb_ef10c5a8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-01-15T16:11:19Z",
+      "side": 1,
+      "message": "same issue as wifi stuff, unless it\u0027s a standalone RRO it won\u0027t work.\n\nwe have tried",
+      "parentUuid": "b4445fa2_7c24fb53",
+      "revId": "32c3483caa3f17fe849a9c9903fa61cf30e97bc6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a3ec7b3b_7810863a",

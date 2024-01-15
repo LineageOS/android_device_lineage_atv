@@ -63,6 +63,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     device/google/atv/overlay
 
+# GMS RROs
+PRODUCT_PACKAGES += \
+    LineageAtvSUW
+
 # Settings
 PRODUCT_PACKAGES += \
     TvSettingsTwoPanel

@@ -124,6 +124,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "847bfb24_525cb7a1",
+        "filename": "apps/LineageAtvSUW/Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-01-16T21:42:05Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e4438391_94e4eb89",
+      "range": {
+        "startLine": 2,
+        "startChar": 11,
+        "endLine": 2,
+        "endChar": 24
+      },
+      "revId": "32c3483caa3f17fe849a9c9903fa61cf30e97bc6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "152ee34c_4a208929",

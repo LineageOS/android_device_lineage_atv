@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "921e8d6c_f1fa507c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-01-16T21:48:59Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/c/LineageOS/android_device_lineage_atv/+/380055 - mixup is squashed in.",
+      "revId": "ddec7e530dc5974a6260bbe4d4be965eb87e1202",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

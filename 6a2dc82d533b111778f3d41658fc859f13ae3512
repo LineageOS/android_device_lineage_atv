@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98790ccf_544f71f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-01-17T03:47:05Z",
+      "side": 1,
+      "message": "works when property atv.setup.bt_remote_pairing is set to false",
+      "revId": "6a2dc82d533b111778f3d41658fc859f13ae3512",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

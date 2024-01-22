@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ba008e6a_6169f4f1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-01-22T09:33:33Z",
+      "side": 1,
+      "message": "You cool with this? Just trying to make it a standard, as I had to do this for automotive: https://review.lineageos.org/c/LineageOS/android_device_lineage_car/+/380652",
+      "revId": "3a460bc94cf10b1e32e26c333d0afa48c4192ab5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

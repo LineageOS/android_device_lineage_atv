@@ -16,6 +16,24 @@
       "message": "adb?",
       "revId": "82a30127714425975d0d35ded070c37738075b20",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a5acc860_d84c5221",
+        "filename": "initfiles/init.lineage.atv.override.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2024-02-02T20:20:58Z",
+      "side": 1,
+      "message": "all i did was dup the rc and use the var to either use one or the other. I can switch to an import if you\u0027d like that but yea that was ripped directly from init.lineage.atv.rc.",
+      "parentUuid": "cdbaad95_2467771a",
+      "revId": "82a30127714425975d0d35ded070c37738075b20",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

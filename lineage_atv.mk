@@ -14,8 +14,6 @@
 # limitations under the License.
 #
 
-# System properties
-include $(LOCAL_PATH)/system_prop.mk
 
 # Overlays
 PRODUCT_PACKAGE_OVERLAYS += \

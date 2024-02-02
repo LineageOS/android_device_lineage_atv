@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cdbaad95_2467771a",
+        "filename": "initfiles/init.lineage.atv.override.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2024-02-02T20:02:37Z",
+      "side": 1,
+      "message": "adb?",
+      "revId": "82a30127714425975d0d35ded070c37738075b20",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

@@ -17,6 +17,9 @@
 # System properties
 include $(LOCAL_PATH)/system_prop.mk
 
+# Force 1080 by default for compat
+TARGET_ATV_FORCE_1080_SCALING ?= true
+
 # Overlays
 PRODUCT_PACKAGE_OVERLAYS += \
     device/lineage/atv/overlay
@@ -24,6 +27,11 @@ PRODUCT_PACKAGE_OVERLAYS += \
 # Init files
 PRODUCT_PACKAGES += \
     init.lineage.atv.rc
+
+ifneq ($(TARGET_ATV_FORCE_1080_SCALING),)
+PRODUCT_PACKAGES += \
+    init.lineage.atv.scaling.rc
+endif
 
 # Dynalink 4k
 PRODUCT_PACKAGES += \

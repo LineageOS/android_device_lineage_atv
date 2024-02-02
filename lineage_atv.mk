@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+<<<<<<< PATCH SET (313655 Revert "Enable bluetooth remote pairing in Setupwraith")
+=======
 # System properties
 include $(LOCAL_PATH)/system_prop.mk
 
@@ -21,6 +23,7 @@ include $(LOCAL_PATH)/system_prop.mk
 PRODUCT_PACKAGE_OVERLAYS += \
     device/lineage/atv/overlay
 
+>>>>>>> BASE      (3a460b atv: Move standalone RRO packages to a separate dir)
 # Init files
 PRODUCT_PACKAGES += \
     init.lineage.atv.rc

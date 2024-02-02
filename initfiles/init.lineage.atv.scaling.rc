@@ -12,13 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# if present
-import /vendor/etc/init/init.lineage.atv.scaling.rc
+on fs
+    setprop ro.config.size_override 1920,1080
+    setprop ro.config.density_override 320
 
-on property:service.adb.tcp.port=5555
-    stop adbd
-    start adbd
-
-on property:service.adb.tcp.port=-1
-    stop adbd
-    start adbd
+on post-fs-data
+    setprop persist.sys.display.resolution 1920x1080
+    setprop persist.vendor.sys.display.resolution 1920x1080

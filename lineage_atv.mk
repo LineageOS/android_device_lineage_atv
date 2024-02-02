@@ -14,9 +14,6 @@
 # limitations under the License.
 #
 
-# System properties
-include $(LOCAL_PATH)/system_prop.mk
-
 # Init files
 PRODUCT_PACKAGES += \
     init.lineage.atv.rc

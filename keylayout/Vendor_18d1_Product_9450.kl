@@ -22,8 +22,8 @@ key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
 key 353   DPAD_CENTER             WAKE
 
-key 158   BACK                    WAKE
-key 172   HOME                    WAKE
+key 158   BACK
+key 172   HOME
 
 key 152   POWER
 key 164   MEDIA_PLAY_PAUSE

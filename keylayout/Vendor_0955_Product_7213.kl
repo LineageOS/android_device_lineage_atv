@@ -2,8 +2,8 @@
 
 # NVIDIA Shield Remote (2017 edition)
 
-key 158   BACK              WAKE
-key 172   HOME              WAKE
+key 158   BACK
+key 172   HOME
 
 key 114   VOLUME_DOWN
 key 115   VOLUME_UP

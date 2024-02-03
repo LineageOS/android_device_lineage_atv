@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c18ad544_fd7a5d06",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-02-03T03:36:06Z",
+      "side": 1,
+      "message": "Still don\u0027t really like allowing devices to break product uniformity. But at the very least, this should not change the default and affect shipping devices. Meaning this should be opt-out, not a opt-in.\n\nAlso fwiw, these get installed to etc/init, thus get auto loaded. No need for imports. Just move res stuff to its own rc and install per conditionals. Aka, just pick the commit from 18 or wherever that was last touched.",
+      "revId": "82a30127714425975d0d35ded070c37738075b20",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cdbaad95_2467771a",

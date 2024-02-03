@@ -25,11 +25,11 @@ key 313   BUTTON_R2
 key 315   BUTTON_START
 key 317   BUTTON_THUMBL
 key 318   BUTTON_THUMBR
-key 158   BACK
-key 172   HOME
+key 158   BACK                WAKE
+key 172   HOME                WAKE
 key 115   VOLUME_UP
 key 114   VOLUME_DOWN
-key 116   POWER
+key 116   POWER               WAKE
 
 key 103   DPAD_UP
 key 108   DPAD_DOWN

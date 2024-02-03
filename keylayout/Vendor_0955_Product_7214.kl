@@ -10,9 +10,9 @@ key 308   BUTTON_Y
 key 310   BUTTON_L1
 key 311   BUTTON_R1
 
-key 158   BACK
+key 158   BACK                WAKE
 key 315   BUTTON_START
-key 172   HOME
+key 172   HOME                WAKE
 
 # These two keycodes are for click (press from above) on analog control sticks.
 key 317   BUTTON_THUMBL

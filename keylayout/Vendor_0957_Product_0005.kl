@@ -16,7 +16,7 @@
 # Key Layout file for B016 Remote.
 #
 
-key 116   POWER
+key 116   POWER                           WAKE
 key 217   ASSIST                          WAKE
 
 key 103   DPAD_UP

@@ -25,7 +25,7 @@ key 353   DPAD_CENTER             WAKE
 key 158   BACK                    WAKE
 key 172   HOME                    WAKE
 
-key 152   POWER
+key 152   POWER                   WAKE
 key 164   MEDIA_PLAY_PAUSE
 key 217   ASSIST                  WAKE
 

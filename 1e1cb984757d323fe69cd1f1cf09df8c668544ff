@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "26389567_276dea14",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-02-09T07:36:02Z",
+      "side": 1,
+      "message": "Verified no regression on the nvidia remotes. And this brings these remote in line with the rest of the layouts that already did not set wake on back and home.",
+      "revId": "1e1cb984757d323fe69cd1f1cf09df8c668544ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

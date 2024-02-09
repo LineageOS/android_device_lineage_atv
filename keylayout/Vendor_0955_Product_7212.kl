@@ -19,3 +19,6 @@ key 108   DPAD_DOWN
 key 353   DPAD_CENTER       WAKE
 
 key 217   VOICE_ASSIST      WAKE
+
+# Double tap on volume slider
+key usage 0x000c00cd VOLUME_MUTE

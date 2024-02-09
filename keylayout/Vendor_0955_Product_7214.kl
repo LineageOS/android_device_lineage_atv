@@ -49,3 +49,6 @@ axis 0x09 RTRIGGER flat 2
 # (D-pad is reported as analog. Each axis has range from -1 to 1.)
 axis 0x10 HAT_X
 axis 0x11 HAT_Y
+
+# Double tap on volume slider
+key usage 0x000c00cd VOLUME_MUTE

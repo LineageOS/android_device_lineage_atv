@@ -33,6 +33,23 @@
       "message": "Verified on jetson_cv booting foster, no popups from the gms apps.",
       "revId": "e7f731a1c6deaec9cbef0910c49cf2262c20c1f2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "92cf90a5_922bc914",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-02-25T10:12:19Z",
+      "side": 1,
+      "message": "Fine by me.",
+      "revId": "e7f731a1c6deaec9cbef0910c49cf2262c20c1f2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

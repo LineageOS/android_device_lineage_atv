@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "badfee22_9120e8eb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-02-25T05:24:24Z",
+      "side": 1,
+      "message": "This change needs discussed among the ATV maintainers. Disabling these warnings should be determined at a product level and not by individual devices. Atm, only tegra has 64-bit atv targets, but there\u0027s nothing intrinsic preventing other 64-bit targets from existing. I think this should be merged until GMS apps at least stop triggering it.",
+      "revId": "e7f731a1c6deaec9cbef0910c49cf2262c20c1f2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

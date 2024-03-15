@@ -54,11 +54,6 @@ PRODUCT_PACKAGES += \
     Vendor_0955_Product_7214.kl \
     Vendor_0955_Product_7217.kl
 
-# Key layouts for steam controller
-PRODUCT_PACKAGES += \
-    Vendor_28de_Product_1102.kl \
-    Vendor_28de_Product_1142.kl
-
 # Overlays
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     device/google/atv/overlay

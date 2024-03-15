@@ -54,6 +54,11 @@ PRODUCT_PACKAGES += \
     Vendor_0955_Product_7214.kl \
     Vendor_0955_Product_7217.kl
 
+# Steam Controller Wireless Adapter and BLE
+PRODUCT_COPY_FILES += \
+    frameworks/base/data/keyboards/Vendor_28de_Product_1102.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_28de_Product_1106.kl \
+    frameworks/base/data/keyboards/Vendor_28de_Product_1102.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_28de_Product_1142.kl
+
 # Overlays
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     device/google/atv/overlay

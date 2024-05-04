@@ -25,22 +25,22 @@ key 103   DPAD_UP
 key 108   DPAD_DOWN
 key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
-key 28    DPAD_CENTER
+key 28    DPAD_CENTER  WAKE
 key 1     BACK
 key 60    HOME
 key 102   MENU
 key 115   VOLUME_UP
-key 63    ASSIST
+key 63    ASSIST       WAKE
 key 114   VOLUME_DOWN
 
 
 
 
-key 353    DPAD_CENTER
+key 353    DPAD_CENTER WAKE
 key 158    BACK
 key 172    HOME
 key 127    MENU
-key 217    ASSIST
+key 217    ASSIST      WAKE
 
-key 190    F12
-key 580    F12
+key 190    BUTTON_8 WAKE
+key 580    BUTTON_8 WAKE

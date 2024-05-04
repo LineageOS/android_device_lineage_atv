@@ -47,7 +47,7 @@ key 24    O
 key 25    P
 key 26    LEFT_BRACKET
 key 27    RIGHT_BRACKET
-key 28    DPAD_CENTER
+key 28    DPAD_CENTER    WAKE
 key 29    CTRL_LEFT
 key 30    A
 key 31    S
@@ -300,7 +300,7 @@ key 318   BUTTON_THUMBR
 
 
 # key 352 "KEY_OK"
-key 353   DPAD_CENTER
+key 353   DPAD_CENTER    WAKE
 # key 354 "KEY_GOTO"
 # key 355 "KEY_CLEAR"
 # key 356 "KEY_POWER2"

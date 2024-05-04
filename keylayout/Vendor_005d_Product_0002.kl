@@ -30,7 +30,7 @@ key 8     7
 key 9     8
 key 10    9
 key 11    0
-key 28    DPAD_CENTER
+key 28    DPAD_CENTER     WAKE
 key 59    HOME
 key 60    TV_INPUT
 key 62    INFO
@@ -45,4 +45,4 @@ key 114   VOLUME_DOWN
 key 115   VOLUME_UP
 key 116   POWER
 key 130   MENU
-key 217   ASSIST
+key 217   ASSIST          WAKE

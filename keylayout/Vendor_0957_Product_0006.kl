@@ -23,11 +23,11 @@
 key 116   POWER
 key usage 0x0c01bb TV_INPUT
 key 156   BOOKMARK
-key 217   ASSIST
+key 217   ASSIST       WAKE
 key 384   SETTINGS
 key 103   DPAD_UP
 key 105   DPAD_LEFT
-key 353   DPAD_CENTER
+key 353   DPAD_CENTER  WAKE
 key 106   DPAD_RIGHT
 key 108   DPAD_DOWN
 key 158   BACK

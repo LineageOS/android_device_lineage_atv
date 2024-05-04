@@ -37,12 +37,12 @@ key 353   DPAD_CENTER
 key 114   VOLUME_DOWN
 key 403   CHANNEL_DOWN
 key 158   BACK
-key 217   VOICE_ASSIST
+key 217   ASSIST
 key 172   HOME
 
 #youtube
 key usage 0x0c000d F1
-#watcgo
+#netflix key
 key usage 0x0c000e F2
 
 #num
@@ -57,7 +57,7 @@ key usage 0x0c003e 8
 key usage 0x0c003f 9
 key usage 0x0c0007 SETTINGS
 key usage 0x0c000f 0
-key usage 0x0c0008 MENU #TV_INPUT
+key usage 0x0c0008 MENU
 key usage 0x0c0009 PROG_RED
 key usage 0x0c000a PROG_GREEN
 key usage 0x0c000b PROG_YELLOW

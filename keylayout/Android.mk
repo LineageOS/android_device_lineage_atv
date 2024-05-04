@@ -203,3 +203,43 @@ LOCAL_MODULE_CLASS  := ETC
 LOCAL_VENDOR_MODULE := true
 LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/keylayout
 include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_0957_Product_0004.kl
+LOCAL_SRC_FILES     := Vendor_0957_Product_0004.kl
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/keylayout
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_1d5a_Product_c081.kl
+LOCAL_SRC_FILES     := Vendor_1d5a_Product_c081.kl
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/keylayout
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_1d5a_Product_c082.kl
+LOCAL_SRC_FILES     := Vendor_1d5a_Product_c082.kl
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/keylayout
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_248a_Product_8266.kl
+LOCAL_SRC_FILES     := Vendor_248a_Product_8266.kl
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/keylayout
+include $(BUILD_PREBUILT)
+
+	keylayout/Vendor_1d5a_Product_c081.kl
+	keylayout/Vendor_1d5a_Product_c082.kl
+	keylayout/Vendor_248a_Product_8266.kl

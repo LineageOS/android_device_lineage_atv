@@ -85,6 +85,21 @@ PRODUCT_PACKAGES += \
     Vendor_7545_Product_0180.kl \
     Vendor_7545_Product_0190.kl
 
+# Assorted idc's from ONN 2021 build
+PRODUCT_PACKAGES += \
+    Vendor_0508_Product_0110.idc \
+    Vendor_0957_Product_0004.idc \
+    Vendor_1d5a_Product_c082.idc \
+    Vendor_248a_Product_8266.idc \
+    Vendor_7545_Product_0180.idc
+
+# Assorted remote keylayouts from ONN 2021 build
+PRODUCT_PACKAGES += \
+    Vendor_0957_Product_0004.kl \
+    Vendor_1d5a_Product_c081.kl \
+    Vendor_1d5a_Product_c082.kl \
+    Vendor_248a_Product_8266.kl
+
 # Overlays
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     device/google/atv/overlay

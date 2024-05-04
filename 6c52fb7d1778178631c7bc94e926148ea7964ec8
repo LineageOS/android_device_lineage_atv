@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d619f8ba_43c65624",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-05-04T06:04:24Z",
+      "side": 1,
+      "message": "This really should be copied to all input devices supported in this repo. But not blocking this set on that.",
+      "revId": "6c52fb7d1778178631c7bc94e926148ea7964ec8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

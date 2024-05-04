@@ -47,7 +47,7 @@ key 24    O
 key 25    P
 key 26    LEFT_BRACKET
 key 27    RIGHT_BRACKET
-key 28    DPAD_CENTER
+key 28    DPAD_CENTER    WAKE
 key 29    CTRL_LEFT
 key 30    A
 key 31    S
@@ -84,10 +84,10 @@ key 61    F3
 key 62    F4
 key 63    F5
 key 64    F6
-key 65    F7
-key 66    F8
+key 65    BUTTON_6
+key 66    BUTTON_7
 key 67    F9
-key 68    F10
+key 68    BUTTON_3
 key 69    NUM_LOCK
 key 70    SCROLL_LOCK
 key 71    NUMPAD_7
@@ -106,8 +106,8 @@ key 83    NUMPAD_DOT
 # key 84 (undefined)
 key 85    ZENKAKU_HANKAKU
 key 86    BACKSLASH
-key 87    F11
-key 88    F12
+key 87    BUTTON_4
+key 88    BUTTON_8
 key 89    RO
 # key 90 "KEY_KATAKANA"
 # key 91 "KEY_HIRAGANA"
@@ -254,7 +254,7 @@ key 259   BUTTON_4
 key 260   BUTTON_5
 key 261   BUTTON_6
 key 262   BUTTON_7
-key 263   BUTTON_8
+key 263   BUTTON_7
 key 264   BUTTON_9
 key 265   BUTTON_10
 key 266   BUTTON_11
@@ -271,7 +271,7 @@ key 291   BUTTON_4
 key 292   BUTTON_5
 key 293   BUTTON_6
 key 294   BUTTON_7
-key 295   BUTTON_8
+key 295   BUTTON_7
 key 296   BUTTON_9
 key 297   BUTTON_10
 key 298   BUTTON_11
@@ -300,7 +300,7 @@ key 318   BUTTON_THUMBR
 
 
 # key 352 "KEY_OK"
-key 353   DPAD_CENTER
+key 353   DPAD_CENTER    WAKE
 # key 354 "KEY_GOTO"
 # key 355 "KEY_CLEAR"
 # key 356 "KEY_POWER2"
@@ -380,12 +380,12 @@ key 468   F3                FUNCTION
 key 469   F4                FUNCTION
 key 470   F5                FUNCTION
 key 471   F6                FUNCTION
-key 472   F7                FUNCTION
-key 473   F8                FUNCTION
+key 472   BUTTON_6                FUNCTION
+key 473   BUTTON_7                FUNCTION
 key 474   F9                FUNCTION
-key 475   F10               FUNCTION
-key 476   F11               FUNCTION
-key 477   F12               FUNCTION
+key 475   BUTTON_3               FUNCTION
+key 476   BUTTON_4               FUNCTION
+key 477   BUTTON_8               FUNCTION
 key 478   1                 FUNCTION
 key 479   2                 FUNCTION
 key 480   D                 FUNCTION
@@ -405,7 +405,7 @@ key 484   B                 FUNCTION
 # key 504 KEY_BRL_DOT8
 
 key 580   APP_SWITCH
-key 582   VOICE_ASSIST
+key 582   ASSIST WAKE
 
 # Keys defined by HID usages
 key usage 0x0c006F BRIGHTNESS_UP

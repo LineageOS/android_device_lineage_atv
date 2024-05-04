@@ -21,14 +21,14 @@
 #
 
 key 1     BACK
-key 28    DPAD_CENTER
+key 28    DPAD_CENTER  WAKE
 key 103   DPAD_UP
 key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
 key 108   DPAD_DOWN
 key 139   MENU
 key 172   HOME
-key 194   VOICE_ASSIST
+key 194   ASSIST WAKE
 key 114   VOLUME_DOWN
 key 115   VOLUME_UP
 key 116   POWER

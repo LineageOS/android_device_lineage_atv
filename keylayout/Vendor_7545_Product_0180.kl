@@ -33,17 +33,17 @@ key 103   DPAD_UP
 key 108   DPAD_DOWN
 key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
-key 353   DPAD_CENTER
+key 353   DPAD_CENTER  WAKE
 key 114   VOLUME_DOWN
 key 403   CHANNEL_DOWN
 key 158   BACK
-key 217   ASSIST
+key 217   ASSIST       WAKE
 key 172   HOME
 
 #youtube
-key usage 0x0c000d F1
+key usage 0x0c000d BUTTON_3 WAKE
 #netflix key
-key usage 0x0c000e F2
+key usage 0x0c000e BUTTON_4 WAKE
 
 #num
 key usage 0x0c0037 1

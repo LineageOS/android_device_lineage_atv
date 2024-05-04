@@ -77,3 +77,30 @@ LOCAL_MODULE_CLASS  := ETC
 LOCAL_VENDOR_MODULE := true
 LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/idc
 include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_000d_Product_3838.idc
+LOCAL_SRC_FILES     := Vendor_000d_Product_3838.idc
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/idc
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_000d_Product_3839.idc
+LOCAL_SRC_FILES     := Vendor_000d_Product_3839.idc
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/idc
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE        := Vendor_7545_Product_0021.idc
+LOCAL_SRC_FILES     := Vendor_7545_Product_0021.idc
+LOCAL_MODULE_TAGS   := optional
+LOCAL_MODULE_CLASS  := ETC
+LOCAL_VENDOR_MODULE := true
+LOCAL_MODULE_PATH   := $(TARGET_OUT_VENDOR)/usr/idc
+include $(BUILD_PREBUILT)

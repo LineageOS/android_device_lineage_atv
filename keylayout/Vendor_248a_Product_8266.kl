@@ -15,9 +15,12 @@
 #
 # Key Layout file for B016 Remote.
 #
-
 key 116   POWER
+key 240   TV_INPUT
+
+key 156   BOOKMARK
 key 217   ASSIST
+key 384   SETTINGS
 
 key 103   DPAD_UP
 key 108   DPAD_DOWN
@@ -27,31 +30,16 @@ key 353   DPAD_CENTER
 
 key 158   BACK
 key 172   HOME
-key 580   APP_SWITCH
+key 362   GUIDE
 
 key 113   VOLUME_MUTE
 key 114   VOLUME_DOWN
 key 115   VOLUME_UP
 
-#removed by askey for WH-5349 ->start
-#key usage 0x000c0078   BUTTON_2
-#key usage 0x000c0077   BUTTON_3
-#key usage 0x000c0079   BUTTON_4
-#removed by askey for WH-5349 ->end
+key 402   CHANNEL_UP
+key 403   CHANNEL_DOWN
 
-#added by askey for WH-5349 ->start
-#NETFLIX
-key usage 0x0c0008 F11
-#YOUTUBE
-key usage 0x0c0007 F10
-#GOOGLE PLAY
-key usage 0x0c0009 F12
-#ALL APPS
-key usage 0x0c01A2 F9
-#NETFLIX
-key usage 0x0c0077 F11
-#YOUTUBE
-key usage 0x0c0078 F10
-#GOOGLE PLAY
-key usage 0x0c0079 F12
-#added by askey for WH-5349 ->end
+key usage 0x000c0077 F10  #YouTube
+key usage 0x000c0078 F11  #Netflix
+key usage 0x000c0079 F7  #Disney+
+key usage 0x000c007a F8  #HBOmax

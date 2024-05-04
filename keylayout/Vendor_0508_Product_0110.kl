@@ -10,9 +10,9 @@ key 8     7
 key 9     8
 key 10    9
 key 11    0
-key 217   ASSIST
+key 217   ASSIST       WAKE
 key 158   BACK
-key 353   DPAD_CENTER
+key 353   DPAD_CENTER  WAKE
 key 108   DPAD_DOWN
 key 103   DPAD_UP
 key 172   HOME

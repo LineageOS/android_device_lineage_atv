@@ -59,6 +59,32 @@ PRODUCT_COPY_FILES += \
     frameworks/base/data/keyboards/Vendor_28de_Product_1102.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_28de_Product_1106.kl \
     frameworks/base/data/keyboards/Vendor_28de_Product_1102.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_28de_Product_1142.kl
 
+# ADT-2/3 reference remote idcs
+PRODUCT_PACKAGES += \
+    Vendor_000d_Product_3838.idc \
+    Vendor_000d_Product_3839.idc \
+    Vendor_7545_Product_0021.idc
+
+# ADT-2/3 reference remote keylayouts
+PRODUCT_PACKAGES += \
+    Vendor_000d_Product_3838.kl \
+    Vendor_000d_Product_3839.kl \
+    Vendor_7545_Product_0021.kl
+
+# Assorted remote keylayouts from ADT-3 build
+PRODUCT_PACKAGES += \
+    Vendor_0002_Product_0002.kl \
+    Vendor_005d_Product_0001.kl \
+    Vendor_005d_Product_0002.kl \
+    Vendor_0484_Product_5738.kl \
+    Vendor_0508_Product_0110.kl \
+    Vendor_0957_Product_0006.kl \
+    Vendor_0c45_Product_1109.kl \
+    Vendor_1915_Product_0001.kl \
+    Vendor_7045_Product_1820.kl \
+    Vendor_7545_Product_0180.kl \
+    Vendor_7545_Product_0190.kl
+
 # Overlays
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     device/google/atv/overlay

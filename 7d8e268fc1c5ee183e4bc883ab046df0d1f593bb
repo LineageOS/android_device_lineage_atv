@@ -16,6 +16,23 @@
       "message": "Pending verification of assist mapping on nvidia remotes.",
       "revId": "7d8e268fc1c5ee183e4bc883ab046df0d1f593bb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab8ebce4_eea36752",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 9
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-05-04T06:03:50Z",
+      "side": 1,
+      "message": "deadpool and Tegra (Friday) remotes with ASSIST instead of VOICE_ASSIST work fine.",
+      "revId": "7d8e268fc1c5ee183e4bc883ab046df0d1f593bb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

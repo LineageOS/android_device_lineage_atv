@@ -32,7 +32,7 @@ key 9     8
 key 10    9
 key 11    0
 
-key 28    DPAD_CENTER
+key 28    DPAD_CENTER WAKE
 
 key 103   DPAD_UP
 key 108   DPAD_DOWN
@@ -44,7 +44,7 @@ key 115   VOLUME_UP
 key 116   POWER
 key 156   BOOKMARK
 key 141   SETTINGS
-key 217   ASSIST
+key 217   ASSIST      WAKE
 key 358   INFO
 key 471   GUIDE
 key 158   BACK

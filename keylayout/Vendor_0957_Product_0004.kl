@@ -20,14 +20,14 @@ key 116   POWER
 key 240   TV_INPUT
 
 key 156   BOOKMARK
-key 217   ASSIST
+key 217   ASSIST      WAKE
 key 384   SETTINGS
 
 key 103   DPAD_UP
 key 108   DPAD_DOWN
 key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
-key 353   DPAD_CENTER
+key 353   DPAD_CENTER WAKE
 
 key 158   BACK
 key 172   HOME
@@ -40,7 +40,7 @@ key 115   VOLUME_UP
 key 402   CHANNEL_UP
 key 403   CHANNEL_DOWN
 
-key usage 0x000c0077 F10  #YouTube
-key usage 0x000c0078 F11  #Netflix
-key usage 0x000c0079 F7  #Disney+
-key usage 0x000c007a F8  #HBOmax
+key usage 0x000c0077 BUTTON_3  WAKE #YouTube
+key usage 0x000c0078 BUTTON_4  WAKE #Netflix
+key usage 0x000c0079 BUTTON_6  WAKE #Disney+
+key usage 0x000c007a BUTTON_7  WAKE #HBOmax

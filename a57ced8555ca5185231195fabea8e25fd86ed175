@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "060f0028_d204bff1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-07-31T05:32:44Z",
+      "side": 1,
+      "message": "Verified on quill that layout is used when controller is paired via bluetooth.",
+      "revId": "a57ced8555ca5185231195fabea8e25fd86ed175",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

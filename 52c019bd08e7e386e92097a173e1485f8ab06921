@@ -34,6 +34,24 @@
       "parentUuid": "674cb3fc_ea061321",
       "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "865fc591_a80d3641",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2024-10-22T17:28:06Z",
+      "side": 1,
+      "message": "I\u0027d go that route, and fix things later if things go bad on some specific device.\nNot having a broken device is better, but let\u0027s just say the TV scope is different from a phone?",
+      "parentUuid": "113a07d1_43a3d0fe",
+      "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

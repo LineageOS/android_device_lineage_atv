@@ -196,6 +196,24 @@
       "parentUuid": "95e66e79_6edf2dc8",
       "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e2d1fb68_bf40febd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-22T21:05:58Z",
+      "side": 1,
+      "message": "So, regardless of \"what nx needs\" - AML needs this still - weird shit happens when you boot on a 4k display. I tried this on 21.\n\nI\u0027m of the opinion that this needs to be the default case, and Aaron seems to be as well.\n\nWith that said, opt-out is reasonable for devices like nx that have hybrid form factor, and _an internal display_, which other ATVs don\u0027t need to worry about.\n\nMy 2c.",
+      "parentUuid": "c97ea8c4_12cf8005",
+      "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

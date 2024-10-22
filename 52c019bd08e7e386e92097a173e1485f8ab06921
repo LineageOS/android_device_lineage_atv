@@ -124,6 +124,24 @@
       "parentUuid": "540ded75_64a3f3a0",
       "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e01da266_9e81d1c0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-10-22T19:22:45Z",
+      "side": 1,
+      "message": "Iirc, the S cdd removed the section, meaning there is no guidance. It\u0027s not required, but it\u0027s not forbidden. Though that last question might raise a question of a better way to limit the ui rez as opposed to what we\u0027ve currently got.",
+      "parentUuid": "72f8528e_5897ff34",
+      "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

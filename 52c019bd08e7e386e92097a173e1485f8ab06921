@@ -16,6 +16,24 @@
       "message": "I\u0027d rather have the default be the \"proper\" way that does UI scaling, and have the devices not supporting it opt-out?\nwe don\u0027t have that many TV targets (well, families that is) to verify it on?",
       "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "113a07d1_43a3d0fe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2024-10-22T17:23:20Z",
+      "side": 1,
+      "message": "I completely agree, but @webgeek1234@gmail.com had said the opposite when this was introduced for 20.0. I did this as an \"interim\" and the default lazy set would be removed once people get around to fixing it, but I think 90% of devices will be fine if we just nuke it and allow manual override.",
+      "parentUuid": "674cb3fc_ea061321",
+      "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

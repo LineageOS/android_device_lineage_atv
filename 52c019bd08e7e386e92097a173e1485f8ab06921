@@ -178,6 +178,24 @@
       "parentUuid": "c104d62a_79b31636",
       "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c97ea8c4_12cf8005",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2024-10-22T19:53:22Z",
+      "side": 1,
+      "message": "i think if you don\u0027t set the density override it scales properly, but perhaps since devices i\u0027ve tested on have had an internal panel it starts from there. you should be able to set the base res@density it scales *from* as opposed to locking the resolution of the ui to 1080",
+      "parentUuid": "95e66e79_6edf2dc8",
+      "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

@@ -160,6 +160,24 @@
       "parentUuid": "e01da266_9e81d1c0",
       "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "95e66e79_6edf2dc8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-10-22T19:49:07Z",
+      "side": 1,
+      "message": "Well, exhibit 1 is handling dpi on res change. 1080@320 looks fine. 4k@320 is unreadable. 720@320 is like two words on the screen. I tried once to have init on property lines to change dpi, but it never worked. Nvidia has (had?) a way to handle that in their hwc, but it requires fw mods to plumb the hotplug dpi change which we don\u0027t have.",
+      "parentUuid": "c104d62a_79b31636",
+      "revId": "52c019bd08e7e386e92097a173e1485f8ab06921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

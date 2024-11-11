@@ -51,6 +51,24 @@
       "parentUuid": "cdbaad95_2467771a",
       "revId": "82a30127714425975d0d35ded070c37738075b20",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8ea4ca25_7c9ac67a",
+        "filename": "initfiles/init.lineage.atv.override.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-11-11T19:09:58Z",
+      "side": 1,
+      "message": "whole file refactored",
+      "parentUuid": "a5acc860_d84c5221",
+      "revId": "82a30127714425975d0d35ded070c37738075b20",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "874477a7_6eb47a2c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-11-11T19:08:33Z",
+      "side": 1,
+      "message": "Fine and functional, will leave the device side commits to sit for a bit - but the option works.",
+      "revId": "a65c47aafd2e928be511796aca5b04b2e5c6d7f9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

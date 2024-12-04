@@ -12,9 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# if present
-import /vendor/etc/init/init.lineage.atv.scaling.rc
-
 on property:service.adb.tcp.port=5555
     stop adbd
     start adbd

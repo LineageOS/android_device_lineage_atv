@@ -1,0 +1,181 @@
+// Copyright (C) 2024 The LineageOS Project
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0110_Product_0508.kl",
+    src: "Vendor_0110_Product_0508.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_045e_Product_0b05.kl",
+    src: "Vendor_045e_Product_0b05.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_045e_Product_0b13.kl",
+    src: "Vendor_045e_Product_0b13.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0955_Product_7212.kl",
+    src: "Vendor_0955_Product_7212.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0955_Product_7213.kl",
+    src: "Vendor_0955_Product_7213.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0955_Product_7214.kl",
+    src: "Vendor_0955_Product_7214.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0955_Product_7217.kl",
+    src: "Vendor_0955_Product_7217.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0957_Product_0005.kl",
+    src: "Vendor_0957_Product_0005.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_18d1_Product_9400.kl",
+    src: "Vendor_18d1_Product_9400.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_18d1_Product_9450.kl",
+    src: "Vendor_18d1_Product_9450.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0002_Product_0002.kl",
+    src: "Vendor_0002_Product_0002.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_000d_Product_3838.kl",
+    src: "Vendor_000d_Product_3838.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_000d_Product_3839.kl",
+    src: "Vendor_000d_Product_3839.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_005d_Product_0001.kl",
+    src: "Vendor_005d_Product_0001.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_005d_Product_0002.kl",
+    src: "Vendor_005d_Product_0002.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0484_Product_5738.kl",
+    src: "Vendor_0484_Product_5738.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0508_Product_0110.kl",
+    src: "Vendor_0508_Product_0110.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0957_Product_0006.kl",
+    src: "Vendor_0957_Product_0006.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0c45_Product_1109.kl",
+    src: "Vendor_0c45_Product_1109.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_1915_Product_0001.kl",
+    src: "Vendor_1915_Product_0001.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_7045_Product_1820.kl",
+    src: "Vendor_7045_Product_1820.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_7545_Product_0021.kl",
+    src: "Vendor_7545_Product_0021.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_7545_Product_0180.kl",
+    src: "Vendor_7545_Product_0180.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_7545_Product_0190.kl",
+    src: "Vendor_7545_Product_0190.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_0957_Product_0004.kl",
+    src: "Vendor_0957_Product_0004.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_1d5a_Product_c081.kl",
+    src: "Vendor_1d5a_Product_c081.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_1d5a_Product_c082.kl",
+    src: "Vendor_1d5a_Product_c082.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
+    name: "Vendor_248a_Product_8266.kl",
+    src: "Vendor_248a_Product_8266.kl",
+    vendor: true,
+}

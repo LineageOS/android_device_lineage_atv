@@ -16,6 +16,24 @@
       "message": "Maybe kill the prebuilt as well?",
       "revId": "acf218bbdae782d539e259742448eb3c1c6ff551",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ac6a1054_0707204b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21651
+      },
+      "writtenOn": "2024-12-12T17:28:47Z",
+      "side": 1,
+      "message": "Done. Propably the TVRecommendationsNoGMS can be removed as well. Not sure if it\u0027s a generic thing or launcher specific.",
+      "parentUuid": "d3f133ad_40d06eb3",
+      "revId": "acf218bbdae782d539e259742448eb3c1c6ff551",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

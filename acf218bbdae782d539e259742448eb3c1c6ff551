@@ -34,6 +34,24 @@
       "parentUuid": "d3f133ad_40d06eb3",
       "revId": "acf218bbdae782d539e259742448eb3c1c6ff551",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "264796a5_318c2973",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-12T19:52:11Z",
+      "side": 1,
+      "message": "it is generic to Leanback launcher itself, your app will likely build that in for notifications, etc.",
+      "parentUuid": "ac6a1054_0707204b",
+      "revId": "acf218bbdae782d539e259742448eb3c1c6ff551",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

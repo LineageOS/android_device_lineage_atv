@@ -52,6 +52,24 @@
       "parentUuid": "ac6a1054_0707204b",
       "revId": "acf218bbdae782d539e259742448eb3c1c6ff551",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "586ae7da_8f6c156d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-12-20T20:37:33Z",
+      "side": 1,
+      "message": "Yeah, recommendations needs to be dropped as well.",
+      "parentUuid": "264796a5_318c2973",
+      "revId": "acf218bbdae782d539e259742448eb3c1c6ff551",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

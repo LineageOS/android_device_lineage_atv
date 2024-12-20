@@ -70,6 +70,24 @@
       "parentUuid": "264796a5_318c2973",
       "revId": "acf218bbdae782d539e259742448eb3c1c6ff551",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3cfb733e_d52d64e2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-12-20T20:43:31Z",
+      "side": 1,
+      "message": "Remove \"com.google.android.tvlauncher\" and \"com.google.android.tvrecommendations\" from privapp-permissions-lineage-atv.xml as well",
+      "parentUuid": "586ae7da_8f6c156d",
+      "revId": "acf218bbdae782d539e259742448eb3c1c6ff551",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

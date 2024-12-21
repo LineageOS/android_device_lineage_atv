@@ -116,6 +116,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     TvSettingsTwoPanel
 
+# Catapult
+PRODUCT_PACKAGES += \
+    Catapult
+
 # priv-app permissions
 PRODUCT_COPY_FILES +=\
     device/lineage/atv/permissions/privapp-permissions-lineage-atv.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp-permissions-lineage-atv.xml

@@ -103,11 +103,15 @@ PRODUCT_PACKAGES += \
     Vendor_1d5a_Product_c082.kl \
     Vendor_248a_Product_8266.kl
 
+<<<<<<< PATCH SET (fb7ede Revert "atv: Disable RRO overlays on device/google/atv")
+# TVLauncher
+=======
 # Overlays
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     device/google/atv/overlay
 
 # GMS RROs
+>>>>>>> BASE      (fec87f atv: Drop prebuilt launcher)
 PRODUCT_PACKAGES += \
     LineageGoogleSetupWraithOverlay \
     LineageGoogleSetupWraithPairingOverlay

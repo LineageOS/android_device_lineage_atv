@@ -12,4 +12,7 @@
          Can be customized for other product types -->
     <string name="config_customAdbPublicKeyConfirmationComponent"
             >com.android.systemui/com.android.systemui.tv.usb.TvUsbDebuggingActivity</string>
+
+    <!-- The default volume for the notification stream -->
+    <integer name="config_audio_notif_vol_default">0</integer>
 </resources>

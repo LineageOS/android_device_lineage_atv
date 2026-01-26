@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2bad4af2_63304622",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-01-26T04:31:01Z",
+      "side": 1,
+      "message": "Doesn\u0027t work. Need to set def_charging_sounds_enabled in SettingsProvider instead.",
+      "revId": "cd6f804d64f3a01c42e5343425f0848706cf5904",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

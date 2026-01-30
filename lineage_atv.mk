@@ -3,12 +3,22 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+# Flags
+ifeq ($(TARGET_ATV_ON_PHONE_DEVICE),true)
+TARGET_ATV_FORCE_1080_SCALING ?= false
+endif
+
 # System properties
 include $(LOCAL_PATH)/system_prop.mk
 
 # Overlays
 PRODUCT_PACKAGE_OVERLAYS += \
     device/lineage/atv/overlay
+
+ifeq ($(TARGET_ATV_ON_PHONE_DEVICE),true)
+PRODUCT_PACKAGE_OVERLAYS += \
+    device/lineage/atv/overlay-phone_atv
+endif
 
 # Init files
 PRODUCT_PACKAGES += \
@@ -111,6 +121,14 @@ PRODUCT_PACKAGES += \
 # Settings
 PRODUCT_PACKAGES += \
     TvSettingsTwoPanel
+
+# permissions
+ifeq ($(TARGET_ATV_ON_PHONE_DEVICE),true)
+# Enable landscape
+PRODUCT_COPY_FILES += \
+    device/google_car/common/unavailable_features_landscape.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/unavailable_features_landscape.xml \
+    frameworks/native/data/etc/android.hardware.screen.landscape.xml:system/etc/permissions/android.hardware.screen.landscape.xml
+endif
 
 # priv-app permissions
 PRODUCT_COPY_FILES +=\

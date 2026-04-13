@@ -34,9 +34,23 @@ PRODUCT_PACKAGES += \
     Vendor_18d1_Product_9450.idc \
     Vendor_18d1_Product_9450.kl
 
+# Stadia controller
+PRODUCT_PACKAGES += \
+    Vendor_18d1_Product_9400.kl
+
 # IDCs for shield controllers
 PRODUCT_PACKAGES += \
+    Vendor_0955_Product_7212.idc \
+    Vendor_0955_Product_7213.idc \
+    Vendor_0955_Product_7214.idc \
     Vendor_0955_Product_7217.idc
+
+# Key layouts for shield controllers
+PRODUCT_PACKAGES += \
+    Vendor_0955_Product_7212.kl \
+    Vendor_0955_Product_7213.kl \
+    Vendor_0955_Product_7214.kl \
+    Vendor_0955_Product_7217.kl
 
 # Steam Controller Wireless Adapter and BLE
 PRODUCT_COPY_FILES += \

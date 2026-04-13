@@ -1,0 +1,34 @@
+#
+# SPDX-FileCopyrightText: The LineageOS Project
+# SPDX-License-Identifier: Apache-2.0
+#
+
+# Google Stadia Controller - USB
+
+key 304   BUTTON_A
+key 305   BUTTON_B
+key 307   BUTTON_X
+key 308   BUTTON_Y
+
+key 310   BUTTON_L1
+key 311   BUTTON_R1
+
+key 314   BUTTON_SELECT
+key 315   BUTTON_START
+key 316   BUTTON_MODE
+
+key 317   BUTTON_THUMBL
+key 318   BUTTON_THUMBR
+
+axis 0x00 X
+axis 0x01 Y
+axis 0x02 Z
+axis 0x05 RZ
+
+axis 0x0a LTRIGGER
+axis 0x09 RTRIGGER
+
+axis 0x10 HAT_X
+axis 0x11 HAT_Y
+
+key 704 ASSIST

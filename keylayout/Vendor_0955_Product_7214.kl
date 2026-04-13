@@ -1,0 +1,45 @@
+#
+# SPDX-FileCopyrightText: The LineageOS Project
+# SPDX-License-Identifier: Apache-2.0
+#
+
+# NVIDIA Shield controller (2017)
+
+key 304   BUTTON_A
+key 305   BUTTON_B
+key 307   BUTTON_X
+key 308   BUTTON_Y
+
+key 310   BUTTON_L1
+key 311   BUTTON_R1
+
+key 158   BACK
+key 315   BUTTON_START
+key 172   HOME
+
+key 317   BUTTON_THUMBL
+key 318   BUTTON_THUMBR
+
+key 115   VOLUME_UP
+key 114   VOLUME_DOWN
+
+key 164   MEDIA_PLAY_PAUSE
+
+key 217   BUTTON_16
+
+key 715   BUTTON_13
+key 716   BUTTON_14
+key 717   BUTTON_15
+
+axis 0x00 X flat 2
+axis 0x01 Y flat 2
+axis 0x02 Z flat 2
+axis 0x05 RZ flat 2
+
+axis 0x0a LTRIGGER flat 2
+axis 0x09 RTRIGGER flat 2
+
+axis 0x10 HAT_X
+axis 0x11 HAT_Y
+
+key usage 0x000c00cd VOLUME_MUTE

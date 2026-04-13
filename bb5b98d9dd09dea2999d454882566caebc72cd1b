@@ -16,6 +16,24 @@
       "message": "Is this CRLF?",
       "revId": "bb5b98d9dd09dea2999d454882566caebc72cd1b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "87594979_dab26a7c",
+        "filename": "keylayout/Vendor_18d1_Product_9400.kl",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-04-13T23:53:21Z",
+      "side": 1,
+      "message": "dos2unix\u0027d",
+      "parentUuid": "5c6a6c66_18144ba7",
+      "revId": "bb5b98d9dd09dea2999d454882566caebc72cd1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

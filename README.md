@@ -4,7 +4,7 @@
 
 ```
 #
-# SPDX-FileCopyrightText: 2019 The LineageOS Project
+# SPDX-FileCopyrightText: The LineageOS Project
 # SPDX-License-Identifier: Apache-2.0
 #
 ```

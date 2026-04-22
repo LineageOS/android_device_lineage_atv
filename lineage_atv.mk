@@ -103,6 +103,10 @@ PRODUCT_PACKAGES += \
     Vendor_1d5a_Product_c082.kl \
     Vendor_248a_Product_8266.kl
 
+# DocumentsUI
+PRODUCT_PACKAGES += \
+    ATVPackageDisabler
+
 # GMS RROs
 PRODUCT_PACKAGES += \
     LineageGoogleSetupWraithOverlay \

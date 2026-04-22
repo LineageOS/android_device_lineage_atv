@@ -1,0 +1,16 @@
+//
+// SPDX-FileCopyrightText: The LineageOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+android_app {
+    name: "ATVPackageDisabler",
+
+    srcs: ["src/**/*.kt"],
+
+    sdk_version: "current",
+    product_specific: true,
+    certificate: "platform",
+    privileged: true,
+    privapp_allowlist: "org.lineageos.atvpackagedisabler.xml",
+}

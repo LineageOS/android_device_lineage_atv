@@ -16,6 +16,24 @@
       "message": "maybe make this a resource, so it can be updated as an overlay",
       "revId": "40c2de4dd75ebaf2147a3c5a55e60dfc647819ce",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "66833423_b83174dc",
+        "filename": "apps/ATVPackageDisabler/src/org/lineageos/atvpackagedisabler/ATVPackageDisabler.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-04-23T03:20:47Z",
+      "side": 1,
+      "message": "I thought about this but I don\u0027t want maintainers to be able to just pick and choose what is disabled.",
+      "parentUuid": "64baf500_064811ae",
+      "revId": "40c2de4dd75ebaf2147a3c5a55e60dfc647819ce",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

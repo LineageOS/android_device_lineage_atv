@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Enable the "disconnect Bluetooth accessories (HID) on standby" toggle on Android TV. -->
+    <bool name="config_show_disconnect_bt_on_sleep">true</bool>
+</resources>

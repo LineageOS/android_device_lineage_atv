@@ -1,0 +1,16 @@
+//
+// SPDX-FileCopyrightText: The LineageOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+android_app {
+    name: "SleepBluetooth",
+    product_specific: true,
+    privileged: true,
+    certificate: "platform",
+    sdk_version: "system_current",
+    srcs: ["src/**/*.java"],
+    optimize: {
+        enabled: false,
+    },
+}

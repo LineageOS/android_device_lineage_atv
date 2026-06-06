@@ -119,3 +119,10 @@ PRODUCT_COPY_FILES +=\
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
+
+# Disconnect Bluetooth accessories (controllers/remotes) on sleep
+PRODUCT_PACKAGES += \
+    SleepBluetooth
+
+PRODUCT_COPY_FILES += \
+    device/lineage/atv/permissions/default-permissions-sleep-bluetooth.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/default-permissions/default-permissions-sleep-bluetooth.xml

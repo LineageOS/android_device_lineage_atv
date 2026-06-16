@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a080df90_7026e55b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-16T01:41:43Z",
+      "side": 1,
+      "message": "actually, few questions, why is it it\u0027s own entire package",
+      "revId": "51b68dece2bf905c9de9509306ad8f0fd5cc1d04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fda2421f_0eec92ce",
+        "filename": "apps/SleepBluetooth/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-16T01:41:43Z",
+      "side": 1,
+      "message": "This repo isn\u0027t currently translated that ik of - this would require it is... and I\u0027m not sure that makes sense when this doesn\u0027t even show to the user that I\u0027m aware of?",
+      "revId": "51b68dece2bf905c9de9509306ad8f0fd5cc1d04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c26d2007_753cd530",
+        "filename": "lineage_atv.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-16T01:41:43Z",
+      "side": 1,
+      "message": "pick better header name, alphabetize - probably best under just \"Bluetooth Features\"",
+      "revId": "51b68dece2bf905c9de9509306ad8f0fd5cc1d04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "05e92042_3d52085b",
+        "filename": "overlay/packages/apps/TvSettings/Settings/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-16T01:41:43Z",
+      "side": 1,
+      "message": "this is in TvSettings... so why not just make the default to show it? Or gate it based on bluetooth feature?",
+      "revId": "51b68dece2bf905c9de9509306ad8f0fd5cc1d04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

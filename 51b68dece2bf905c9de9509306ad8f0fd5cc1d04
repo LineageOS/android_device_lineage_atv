@@ -18,6 +18,23 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "56d11b6c_62abd9a5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-16T01:42:50Z",
+      "side": 1,
+      "message": "overall - this feels a bit odd. why does this need to be a standalone app and not in TvSettings itself?\n\nAlso, if AI was used in this, please see: https://github.com/LineageOS/charter/blob/main/ai-coding-assistants.md\n\nneeds co-authored-by line",
+      "revId": "51b68dece2bf905c9de9509306ad8f0fd5cc1d04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "fda2421f_0eec92ce",

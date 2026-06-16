@@ -53,6 +53,23 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5c7684c3_5cb38015",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-06-16T14:15:44Z",
+      "side": 1,
+      "message": "I agree with Nolen, this should be folded into TvSettings and guarded with the bluetooth permission instead of another random overlay config.",
+      "revId": "51b68dece2bf905c9de9509306ad8f0fd5cc1d04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "fda2421f_0eec92ce",

@@ -9,10 +9,3 @@ prebuilt_etc {
     sub_dir: "init",
     product_specific: true,
 }
-
-prebuilt_etc {
-    name: "init.lineage.atv.scaling.rc",
-    src: "init.lineage.atv.scaling.rc",
-    sub_dir: "init",
-    product_specific: true,
-}

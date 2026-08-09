@@ -9,7 +9,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Logging
 ifneq ($(TARGET_BUILD_VARIANT),eng)
-PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
+PRODUCT_SYSTEM_EXT_PROPERTIES += \
     log.tag.cast_ClientAuthCredsWidevine=S \
     log.tag.cast_shell=S \
     log.tag.cast_VolumeControlAndroid=S \

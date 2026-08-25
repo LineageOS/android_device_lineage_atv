@@ -86,6 +86,23 @@
       "message": "Waiting for ohm test build but considering resolution picker is present anyway should be fine",
       "revId": "ee800aae003384ea0f1388f5d57799b4d1a87dd0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d5a27fcd_727db0a5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-08-25T07:06:41Z",
+      "side": 1,
+      "message": "Does it really make sense to keep the file here?",
+      "revId": "ee800aae003384ea0f1388f5d57799b4d1a87dd0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

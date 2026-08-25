@@ -103,6 +103,24 @@
       "message": "Does it really make sense to keep the file here?",
       "revId": "ee800aae003384ea0f1388f5d57799b4d1a87dd0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "45af6648_2bf5100a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-08-25T15:36:16Z",
+      "side": 1,
+      "message": "^",
+      "parentUuid": "d5a27fcd_727db0a5",
+      "revId": "ee800aae003384ea0f1388f5d57799b4d1a87dd0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

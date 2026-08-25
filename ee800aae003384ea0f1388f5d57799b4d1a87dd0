@@ -52,6 +52,23 @@
       "parentUuid": "010d1bfc_9cbf4a33",
       "revId": "ee800aae003384ea0f1388f5d57799b4d1a87dd0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d5c2eaf9_4c47693e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-08-25T05:57:50Z",
+      "side": 1,
+      "message": "Verified on various AYN handhelds and Tegra devkits. No visible effect on the normal devices with 16:9 display, but allows the device with a 4:3 display to override the forced aspect ratio enforced by the scaling.",
+      "revId": "ee800aae003384ea0f1388f5d57799b4d1a87dd0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

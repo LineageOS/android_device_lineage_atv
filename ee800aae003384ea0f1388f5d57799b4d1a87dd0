@@ -121,6 +121,24 @@
       "parentUuid": "d5a27fcd_727db0a5",
       "revId": "ee800aae003384ea0f1388f5d57799b4d1a87dd0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cb525369_a609a5f7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-08-25T16:55:40Z",
+      "side": 1,
+      "message": "nuked, and removed Android.bp entry.",
+      "parentUuid": "45af6648_2bf5100a",
+      "revId": "ee800aae003384ea0f1388f5d57799b4d1a87dd0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

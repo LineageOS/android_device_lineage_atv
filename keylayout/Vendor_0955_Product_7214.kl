@@ -14,8 +14,11 @@ key 310   BUTTON_L1
 key 311   BUTTON_R1
 
 key 158   BACK
-key 315   BUTTON_START
 key 172   HOME
+
+key 314   BACK
+key 315   BUTTON_START
+key 316   HOME
 
 key 317   BUTTON_THUMBL
 key 318   BUTTON_THUMBR
@@ -30,6 +33,8 @@ key 217   BUTTON_16
 key 715   BUTTON_13
 key 716   BUTTON_14
 key 717   BUTTON_15
+
+key 309   BUTTON_MODE
 
 axis 0x00 X flat 2
 axis 0x01 Y flat 2

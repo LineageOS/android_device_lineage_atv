@@ -16,6 +16,23 @@
       "message": "will wait on your votes, but I\u0027m fine with this.",
       "revId": "a40340771e93455567e4da5285fb1a582a286dca",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "85ee0d3d_c9c67e91",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-11-07T20:51:39Z",
+      "side": 1,
+      "message": "What is the screensaver default? We don\u0027t want those too close together.",
+      "revId": "a40340771e93455567e4da5285fb1a582a286dca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

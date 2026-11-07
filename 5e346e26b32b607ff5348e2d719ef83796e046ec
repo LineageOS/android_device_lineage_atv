@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e4bab85d_76df985b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-11-07T14:37:22Z",
+      "side": 1,
+      "message": "Need to check if this has more priority over device/google/atv. GTV already overlays this anyway, but doesn\u0027t hurt setting a more sane default for no-GMS usecase.",
+      "revId": "5e346e26b32b607ff5348e2d719ef83796e046ec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

@@ -92,3 +92,9 @@ prebuilt_usr_idc {
     src: "Vendor_7545_Product_0180.idc",
     vendor: true,
 }
+
+prebuilt_usr_idc {
+    name: "Vendor_7545_Product_0183.idc",
+    src: "Vendor_7545_Product_0183.idc",
+    vendor: true,
+}

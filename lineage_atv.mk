@@ -19,6 +19,11 @@ PRODUCT_PACKAGES += \
     Vendor_0110_Product_0508.idc \
     Vendor_0110_Product_0508.kl
 
+# Freebox Pop remote (B16C)
+PRODUCT_PACKAGES += \
+    Vendor_7545_Product_0183.idc \
+    Vendor_7545_Product_0183.kl
+
 # Onn remote
 PRODUCT_PACKAGES += \
     Vendor_0957_Product_0005.idc \

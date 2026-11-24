@@ -1,0 +1,42 @@
+#
+# SPDX-FileCopyrightText: The LineageOS Project
+# SPDX-License-Identifier: Apache-2.0
+#
+
+#
+# Key Layout file for Freebox Pop Remote (B16C).
+#
+
+key 116   POWER
+key 115   VOLUME_UP
+key 402   CHANNEL_UP
+key 103   DPAD_UP
+key 108   DPAD_DOWN
+key 105   DPAD_LEFT
+key 106   DPAD_RIGHT
+key 353   DPAD_CENTER     WAKE
+key 114   VOLUME_DOWN
+key 403   CHANNEL_DOWN
+key 217   ASSIST          WAKE
+key 113   VOLUME_MUTE
+key 172   HOME
+key 158   BACK
+
+# Number Keys
+key usage 0x0c0037 1
+key usage 0x0c0038 2
+key usage 0x0c0039 3
+key usage 0x0c003a 4
+key usage 0x0c003b 5
+key usage 0x0c003c 6
+key usage 0x0c003d 7
+key usage 0x0c003e 8
+key usage 0x0c003f 9
+key usage 0x0c000f 0
+
+# App Shortcuts
+key usage 0x0c000c TV          WAKE   # Free TV (OQEE)
+key usage 0x0c000d BUTTON_5    WAKE   # Prime Video
+key usage 0x0c000e BUTTON_4    WAKE   # Netflix
+key usage 0x0c0010 BUTTON_9    WAKE   # Canal+
+key usage 0x0c0011 BUTTON_6    WAKE   # Disney+

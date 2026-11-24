@@ -142,6 +142,12 @@ prebuilt_usr_keylayout {
 }
 
 prebuilt_usr_keylayout {
+    name: "Vendor_7545_Product_0183.kl",
+    src: "Vendor_7545_Product_0183.kl",
+    vendor: true,
+}
+
+prebuilt_usr_keylayout {
     name: "Vendor_7545_Product_0190.kl",
     src: "Vendor_7545_Product_0190.kl",
     vendor: true,

@@ -12,4 +12,9 @@
          Can be customized for other product types -->
     <string name="config_customAdbPublicKeyConfirmationComponent"
             >com.android.systemui/com.android.systemui.tv.usb.TvUsbDebuggingActivity</string>
+
+    <!-- Flag indicating whether all audio streams should be mapped to
+         one single stream. If true, all audio streams are mapped to
+         STREAM_MUSIC as if it's on TV platform. -->
+    <bool name="config_single_volume">true</bool>
 </resources>

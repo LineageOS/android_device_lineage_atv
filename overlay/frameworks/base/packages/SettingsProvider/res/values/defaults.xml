@@ -19,4 +19,7 @@
 <resources>
     <!-- Put the device to sleep after 1 hour without user interaction -->
     <integer name="def_sleep_timeout">3600000</integer>
+
+    <!-- Default for Settings.Secure.CHARGING_SOUNDS_ENABLED -->
+    <bool name="def_charging_sounds_enabled">false</bool>
 </resources>

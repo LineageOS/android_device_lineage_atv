@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "86156683_8323d30c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-11-25T18:02:56Z",
+      "side": 1,
+      "message": "Verified on ayn handhelds, charging sounds no longer play on new installs. It should be noted that this is a default value and won\u0027t override on an existing install.",
+      "revId": "9b3f6128f8d4f09cb271a2e43b3aede689f28683",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
